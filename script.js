@@ -38,7 +38,7 @@ titleWrapper.append("text")
 	.style("font-size", mobileScreen ? "12px" : "16px" )
 	.attr("x", (width/2 + margin.left - outerRadius - titleSeparate))
 	.attr("y", titleOffset)
-	.text("SCF");
+	.text("SCF Measure of Merit");
 titleWrapper.append("line")
 	.attr("class","titleLine left")
 	.attr("x1", (width/2 + margin.left - outerRadius - titleSeparate)*0.6)
@@ -51,7 +51,7 @@ titleWrapper.append("text")
 	.style("font-size", mobileScreen ? "12px" : "16px" )
 	.attr("x", (width/2 + margin.left + outerRadius + titleSeparate))
 	.attr("y", titleOffset)
-	.text("AFRL");
+	.text("AFRL Programs");
 titleWrapper.append("line")
 	.attr("class","titleLine right")
 	.attr("x1", (width/2 + margin.left - outerRadius - titleSeparate)*0.6 + 2*(outerRadius + titleSeparate))
@@ -110,11 +110,11 @@ var Names = ["Testing", "Administrative Staff","Crafts","Business Management","B
 			"Salesmen & Service providers","Caretakers","Science & Engineering", "Other", "",
 			"Engineering","Education","Agriculture","Art, Language & Culture","Health","Behavior & Social Sciences","Economy",""];
 
-var respondents = 18093, //Total number of respondents (i.e. the number that make up the total group
+var respondents = 18813, //Total number of respondents (i.e. the number that make up the total group
 	emptyPerc = 0.5, //What % of the circle should become empty
 	emptyStroke = Math.round(respondents*emptyPerc); 
 var matrix = [
-	[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,80,80,80,80,80,80,0], //Testing
+	[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,800,80,80,80,80,80,80,0], //Testing
 	[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,232,65,44,57,39,123,1373,0], //Administratief personeel
 	[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,11,0,0,24,0], //Ambachtslieden
 	[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,173,43,52,55,36,125,2413,0], //Bedrijfsbeheer (vak)specialisten
@@ -129,7 +129,7 @@ var matrix = [
 	[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1141,0,111,291,0,0,48,0], //Wetenschap en techniek (vak)specialisten
 	[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,39,0,0,20,109,0], //Other
 	[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,emptyStroke], //dummyBottom
-	[80,232,32,173,32,161,510,16,76,32,96,15,1141,36,0,0,0,0,0,0,0,0,0], //Techniek
+	[800,232,32,173,32,161,510,16,76,32,96,15,1141,36,0,0,0,0,0,0,0,0,0], //Techniek
 	[80,65,0,43,16,24,0,118,21,2206,74,34,0,0,0,0,0,0,0,0,0,0,0], //Onderwijs
 	[80,44,0,52,13,17,0,10,10,37,43,0,111,39,0,0,0,0,0,0,0,0,0], //Landbouw
 	[80,57,11,55,23,0,57,454,15,292,116,22,291,0,0,0,0,0,0,0,0,0,0], //Kunst, Taal en Cultuur

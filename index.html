@@ -31,8 +31,37 @@
 		Thus there is a flow from left to right. The thickness of a line represents the number of students.
 		</div>
 	</div>
-	
+	<script type="text/javascript">
+		
+		var solutions = []
+		var attributes = []
+
+		$.ajax({
+		  type: "GET",
+		  url: "solutions.json",
+		  success: function(data){
+		  	solutions = data
+		  	$.ajax({
+			  type: "GET",
+			  url: "attribuites.json",
+			  success: function(data){
+			  attributes = data
+
+			  console.log(attributes)
+			console.log('------------------------')
+			console.log(solutions)
+			  }
+			});
+			
+		  }
+		});
+
+
+
+
+	</script>
     <script src="script.js"></script>
+
 	
   </body>
 </html>

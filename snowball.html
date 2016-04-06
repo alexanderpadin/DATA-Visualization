@@ -1,0 +1,114 @@
+
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Online Snowball stemmers demo</title>
+    <script src="snowball.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      var Stem = function(lng) {
+        var testStemmer = new Snowball(lng);
+        return function(word) {
+          testStemmer.setCurrent(word);
+          testStemmer.stem();
+          return testStemmer.getCurrent();
+        }
+      };
+      function println(lng, word){
+        document.getElementById("result").innerHTML = "<b>" + new Stem(lng)(word) + "</b>";
+      }
+
+      //Flow
+      //Lowercase everything
+      //remove prepositions and useless words
+      //get root from each word.
+      //create array of root words.
+
+      var prepositions = ["aboard", "the", "and", "a", "it", "its", "about", "above", "across", "after", "against", "along", "amid", "among", "anti", "around", "as", "at", "before", "behind", "below", "beneath", "beside", "besides", "between", "beyond", "but", "by", "concerning", "considering", "despite", "down", "during", "except", "excepting", "excluding", "following", "for", "from", "in", "inside", "into", "like", "minus", "near", "of", "off", "on", "onto", "opposite", "outside", "over", "past", "per", "plus", "regarding", "round", "save", "since", "than", "through", "to", "toward", "towards", "under", "underneath", "unlike", "until", "up", "upon", "versus", "via", "with", "within", "without"]
+
+      var sentance = 'The ability to establish, develop, maintain and manage a mission ready Total Force. The ability to integrate new and existing human and technical assets from across the Joint Force and its mission partners to make the right capabilities available at the right time and place to support National security. The ability to align force apportionment, assignment, and allocation methodologies in support of the National Defense Strategy and joint force availability requirements; present comprehensive insights into the global availability and operational readiness of U.S. military forces; globally source joint force requirements; and provide senior decision makers a vehicle to quickly and accurately assess the impact and risk of proposed allocation, assignment and apportionment changes. (From Annex A (Glossary) “Global Force Management Guidance FY 2005”)'
+
+      console.log("Original")
+      console.log(sentance)
+
+      sentance = sentance.toLowerCase();
+      console.log("1st Step")
+      console.log(sentance)
+
+
+      var wordsArr = sentance.split(' ')
+
+    
+
+      for(var x = 0 ; x < wordsArr.length ; x++) {
+        wordsArr[x] = wordsArr[x].replace(/[^A-Za-z0-9]/g, '');
+      }
+      console.log("2nd Step")
+      console.log(wordsArr.join(" "))
+
+
+
+      var tempSentence = wordsArr.join(" ")
+      for(var w = 0 ; w < prepositions.length ; w++) {
+        tempSentence = tempSentence.replace(prepositions[w], '');
+      }
+
+      console.log("3nd Step")
+      console.log(tempSentence)
+    
+
+    /*     
+      var wordsArrStem = []
+      
+      for(var i = 0 ; i < wordsArr.length ; i++) {
+        var stemmerObj = new Snowball('english');
+        stemmerObj.setCurrent(wordsArr[i]);
+        stemmerObj.stem();
+        wordsArrStem.push(stemmerObj.getCurrent())
+      }
+
+      for(var j = 0 ; j < wordsArr.length ; j++) {
+        console.log(wordsArr[j] + " -> " + wordsArrStem[j])
+      }
+
+
+      */
+      // var stringToPrint = ''
+      // for(var j = 0 ; wordsArrStem.length ; j++) {
+      //   stringToPrint += wordsArrStem[j] + " "
+      // }
+
+      // console.log("With Stemeer: ")
+      // console.log(stringToPrint)
+            
+
+
+
+
+
+    </script>
+  </head>
+  <body>
+    <p>Type ONE word, select language and press "<b>Stem!</b>" button.</p>
+    <input maxlength="50" size="50" id="query" type="text">
+    <select id="language">
+      <option value="english">english</option>
+      <option value="danish">danish</option>
+      <option value="dutch">dutch</option>
+      <option value="finnish">finnish</option>
+      <option value="french">french</option>
+      <option value="german">german</option>
+      <option value="hungarian">hungarian</option>
+      <option value="italian">italian</option>
+      <option value="norwegian">norwegian</option>
+      <option value="portuguese">portuguese</option>
+      <option value="russian">russian</option>
+      <option value="spanish">spanish</option>
+      <option value="swedish">swedish</option>
+      <option value="romanian">romanian</option>
+      <option value="turkish">turkish</option>
+    </select>
+    <button type="button" onclick="println(document.getElementById('language').value, document.getElementById('query').value);">Stem!</button>
+    <p id="result"></p>
+  </body>
+</html>

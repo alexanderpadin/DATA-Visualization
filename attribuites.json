@@ -1,0 +1,2201 @@
+[{
+	"id": "1",
+	"short_title": "Force Support",
+	"description": "The ability to establish, develop, maintain and manage a mission ready Total Force"
+}, {
+	"id": "1.1",
+	"short_title": "Force Management",
+	"description": "The ability to integrate new and existing human and technical assets from across the Joint Force and its mission partners to make the right capabilities available at the right time and place to support National security."
+}, {
+	"id": "1.1.1 ",
+	"short_title": "Global Force Management",
+	"description": "The ability to align force apportionment, assignment, and allocation methodologies in support of the National Defense Strategy and joint force availability requirements; present comprehensive insights into the global availability and operational readiness of U.S. military forces; globally source joint force requirements; and provide senior decision makers a vehicle to quickly and accurately assess the impact and risk of proposed allocation, assignment and apportionment changes. (From Annex A (Glossary) \u201cGlobal Force Management Guidance FY 2005\u201d)"
+}, {
+	"id": "1.1.1.1 ",
+	"short_title": "Apportionment",
+	"description": "The ability to designate forces and resources to a combatant commander for contingency planning."
+}, {
+	"id": "1.1.1.2",
+	"short_title": "Assignment",
+	"description": "The ability to place forces and resources under the combatant command authority of a combatant commander IAW Title 10 USC Section 162."
+}, {
+	"id": "1.1.1.3",
+	"short_title": "Allocation",
+	"description": "The ability to provide forces and resources, without transferring combatant command authority, to another combatant commander for execution planning or actual execution."
+}, {
+	"id": "1.1.1.4",
+	"short_title": "Readiness Reporting",
+	"description": "The ability to evaluate, appraise, and characterize the status of military forces and the supporting infrastructure to perform assigned missions."
+}, {
+	"id": "1.1.2",
+	"short_title": "Force Configuration",
+	"description": "The ability to take DOTMLPF requirements and translate them into programs and structure to accomplish the missions and functions required by the Secretary of Defense."
+}, {
+	"id": "1.1.3",
+	"short_title": "Global Posture Execution",
+	"description": "The ability to develop a global network of host-nation relationships, activities, and footprint of facilities and forces by refining operational requirements for, implementing, and sustaining posture changes."
+}, {
+	"id": "1.2",
+	"short_title": "Force Preparation",
+	"description": "The ability to develop, enhance, adapt and sustain the total force to effectively support National security."
+}, {
+	"id": "1.2.1",
+	"short_title": "Training",
+	"description": "The ability to enhance the capacity to perform specific functions and tasks using institutional, operational, or self-development (to include distance learning) domains in order to improve the individual or collective performance of personnel, units, forces, and staffs."
+}, {
+	"id": "1.2.2",
+	"short_title": "Exercising",
+	"description": "The ability to plan, prepare, execute and evaluate maneuvers or simulated operations to validate training or conduct mission rehearsal."
+}, {
+	"id": "1.2.3",
+	"short_title": "Educating",
+	"description": "The ability to convey general bodies of knowledge and develop habits of mind applicable to a broad spectrum of endeavors to foster breadth of view, diverse perspectives, critical analysis, and abstract reasoning."
+}, {
+	"id": "1.2.3.1",
+	"short_title": "Professional Military Education",
+	"description": "The ability to convey (by in-residence or distant learning) the broad body of knowledge that develops the habits of mind essential to increasing proficiency in the art and science of war."
+}, {
+	"id": "1.2.3.2",
+	"short_title": "Civilian Education",
+	"description": "The ability to develop knowledge at the post-secondary academic level to enhance the DoD\u2019s mission."
+}, {
+	"id": "1.2.4",
+	"short_title": "Doctrine",
+	"description": "The ability to provide fundamental principles that guide the employment of US military forces in coordinated action toward a common objective and serves to make US policy and strategy effective in the application of US military power."
+}, {
+	"id": "1.2.5",
+	"short_title": "Lessons Learned",
+	"description": "The ability to obtain results from an evolution or observation of an implemented corrective action that contributed to improved performance or increased capability or from an evaluation or observation of a positive finding that did not necessarily require corrective action other than sustainment."
+}, {
+	"id": "1.2.6",
+	"short_title": "Concepts",
+	"description": "The ability to provide a notion or statement of an idea \u2013 an expression of how something might be done."
+}, {
+	"id": "1.2.7",
+	"short_title": "Experimentation",
+	"description": "The ability to conduct an iterative process for developing and assessing concept-based hypotheses to identify and recommend the best value-added solutions for changes in doctrine, organization, training, materiel, leadership and education, personnel, and facilities and policy required to achieve significant advances in future operational capabilities."
+}, {
+	"id": "1.3",
+	"short_title": "Human Capital Management",
+	"description": "The ability to ensure, within the life cycle management of total force human resources, the availability of highly motivated personnel equipped with required skill sets and capabilities to achieve mission success."
+}, {
+	"id": "1.3.1",
+	"short_title": "Personnel and Family Support",
+	"description": "The ability to provide the essential programs and services that support total force members and their families\u2019 quality of life and development in a transforming and expeditionary environment."
+}, {
+	"id": "1.3.1.1",
+	"short_title": "Community Support",
+	"description": "The ability to sustain a military member and family support platform encompassing tuition assistance, children\u2019s education, spouse training and employment, child and youth services, morale welfare and recreation, and other programs that underwrite support to military members and their families."
+}, {
+	"id": "1.3.1.2",
+	"short_title": "Casualty Assistance",
+	"description": "The ability to provide authorized and necessary support services to eligible family members of deceased, Duty Status - Whereabouts Unknown (DUSTWUN), Excused Absence - Whereabouts Unknown (EAWUN), missing, ill, or injured personnel."
+}, {
+	"id": "1.3.1.3",
+	"short_title": "Wounded, ill and Injured Support",
+	"description": "The ability to provide seamless support (not already covered under Health Readiness) for wounded, ill and injured military members, their families, and caregivers, across the continuum of care including recovery and rehabilitation."
+}, {
+	"id": "1.3.1.4",
+	"short_title": "Religious Affairs",
+	"description": "The ability to provide or accommodate religious needs, to support welfare and morale, and to help the command understand the complexities of religion with regard to its personnel and mission."
+}, {
+	"id": "1.3.1.4.1",
+	"short_title": "Religious Support",
+	"description": "The ability to provide for facilitation of free exercise of religion through worship, religious and pastoral counseling services and the advice to the commander on matters pertaining to morals, ethics and morale as affected by religion."
+}, {
+	"id": "1.3.1.4.2",
+	"short_title": "Religious Advisement",
+	"description": "The ability for chaplains to provide religious advisement consistent with their noncombatant status pertaining to the humanitarian impact on the mission and the role and meaning of faith relative to the development of foreign relationships."
+}, {
+	"id": "1.3.2",
+	"short_title": "Personnel Management",
+	"description": "The ability to provide the oversight and provision of human resource policies and programs that contribute to the retention of total force members fully equipped to execute national strategy."
+}, {
+	"id": "1.3.2.1",
+	"short_title": "Manning",
+	"description": "The ability to recruit, retain, sustain, assign, separate and retire members of the Total Force."
+}, {
+	"id": "1.3.2.2",
+	"short_title": "Compensation",
+	"description": "The ability to develop, implement and oversee policies that maintain fair and competitive pay, and entitlement systems."
+}, {
+	"id": "1.3.2.3",
+	"short_title": "Disability Evaluation",
+	"description": "The ability to provide comprehensive assessment of a Service member's fitness for continued service and recommend a disability disposition or return to duty recommendation."
+}, {
+	"id": "1.3.2.4",
+	"short_title": "Personnel Accountability",
+	"description": "The ability to account for DoD personnel across the spectrum of peace and wartime activities."
+}, {
+	"id": "1.4",
+	"short_title": "Health Readiness",
+	"description": "The ability to enhance DoD and our Nation's security by providing health support for the full range of military operations and sustaining the health of all those entrusted to our care."
+}, {
+	"id": "1.4.1",
+	"short_title": "Force Health Protection",
+	"description": "The ability to promote, improve, conserve and restore the mental and physical well being of deployed forces."
+}, {
+	"id": "1.4.1.1",
+	"short_title": "Joint Human Performance Enhancement",
+	"description": "The ability to extend physical and mental endurance and enhance physiological and psychological resilience to reduce future joint force injury and illness by enhancing physical resilience, physiological resilience, psychological resilience, reduced recovery time from injury, and reduced rates of injury and illnesses."
+}, {
+	"id": "1.4.1.2",
+	"short_title": "Non-Clinical Preventive Medicine \/ Health Surveillance",
+	"description": "The ability to provide comprehensive and continuous military non-clinical preventive medicine and comprehensive health surveillance to effect early intervention and control strategies for all occupational and environmental health hazards and CBRN threats, using joint technologies, practices, and procedures consistently across the military services."
+}, {
+	"id": "1.4.1.3",
+	"short_title": "Provide Public Health \/ Veterinary Services",
+	"description": "The ability to provide public health\/veterinary service support to the warfighter by performing food safety operations and inspections and providing for the care and physical well-being of military working animals. Additionally, the provision of veterinary and public health services during humanitarian assistance missions is essential to HN sponsors and adds value to relationships with partner nations."
+}, {
+	"id": "1.4.1.4",
+	"short_title": "Provide Global Patient Movement",
+	"description": "The ability to evacuate injured and ill personnel with appropriate enroute care. This includes all activities related to CASEVAC, MEDEVAC, aeromedical evacuation (AE), enroute care, patient movement planning, medical regulating, patient staging facilities, patient movement items, and patient in-transit visibility. Also included are all activities related to maintaining DODs Global Patient Movement Network."
+}, {
+	"id": "1.4.1.5",
+	"short_title": "Casualty Management",
+	"description": "The ability to provide a continuum of timely, responsive medical and surgical care that incorporates the latest technologies and advancements in medical science. This care begins with the first responder and proceeds through forward\/resuscitative care and theater hospitalization in the joint area of operations. Health Service Delivery addresses definitive care at a CONUS-based rehabilitative facility."
+}, {
+	"id": "1.4.1.6",
+	"short_title": "Provide a Healthy and Fit Force",
+	"description": "The ability to provide and enhance a healthy and fit force from accession to veteran includes optimizing health\/fitness of peacetime forces, maintaining health\/fitness of deployed forces, and restoring the physical and mental health of redeployed service members."
+}, {
+	"id": "1.4.1.7",
+	"short_title": "Detainee Medical Care",
+	"description": "The ability to provide medical care and safeguard the health of detained personnel in compliance with the provisions of the Geneva Convention, international law and our nation\u2019s stance on human rights."
+}, {
+	"id": "1.4.2",
+	"short_title": "Health Service Delivery",
+	"description": "The ability to provide acute or long-term primary or specialty care capabilities to all eligible beneficiaries outside the theater in either the direct or purchased care system."
+}, {
+	"id": "1.4.2.1",
+	"short_title": "Define the Health Benefit",
+	"description": "The ability to identify and plan for specific healthcare needs associated with a population of eligible beneficiaries and continuously measure, monitor, and positively influence health and wellness through evidenced-based preventive and interventional healthcare services."
+}, {
+	"id": "1.4.2.2",
+	"short_title": "Clinical Preventive Medicine",
+	"description": "The ability to provide effective methods to reduce overall disease burden in a population and potentially reduce non-battle injuries for warfighters. Preventive medicine includes preventive medical and dental services, occupational health services, and public health laboratory services. Commonly used approaches are vaccination, counseling to modify high-risk behaviors, screening, and proactive treatments for chronic disease processes to establish early control and medical management."
+}, {
+	"id": "1.4.2.3",
+	"short_title": "Diagnosis",
+	"description": "The ability to identify a medical or dental condition, disease, or injury. Diagnostic procedures are complimentary to relevant history, signs and symptoms, and results of physical examination."
+}, {
+	"id": "1.4.2.4",
+	"short_title": "Treatment",
+	"description": "The ability to administer or apply remedies to a patient for a disease or injury, including medicinal and surgical management, therapy, or combinations, intervention radiology and to provide for palliative and end of life care."
+}, {
+	"id": "1.4.2.5",
+	"short_title": "Rehabilitation",
+	"description": "The ability to restore skills to a person who has had an illness or injury so as to regain maximum self-sufficiency and function in a normal or as near normal manner as possible. Rehabilitation addresses the patient\u2019s physical, psychological, social, vocational, educational, and environmental needs. Family members often are involved actively in the patient\u2019s rehabilitation program."
+}, {
+	"id": "1.4.2.6",
+	"short_title": "Re-integration",
+	"description": "The ability to provide a system of resources designed to assist severely ill or injured warfighters transition back to active duty or to civilian status and to their families, jobs, school, and community. The ability to assist and involve families in the transition process is a critical component to reintegration success."
+}, {
+	"id": "1.4.3",
+	"short_title": "Health System Support",
+	"description": "The ability to perform healthcare administrative and support related functions to sustain and continuously improve MHS mission effectiveness through focused development of people."
+}, {
+	"id": "2",
+	"short_title": "Battlespace Awareness",
+	"description": "The ability to understand dispositions and intentions as well as the characteristics and conditions of the operational environment that bear on national and military decision-making by leveraging all sources of information to include Intelligence, Surveillance, Reconnaissance, Meteorological, and Oceanographic."
+}, {
+	"id": "2.1",
+	"short_title": "Planning and Direction",
+	"description": "The ability to synchronize and integrate the activities of collection, processing, exploitation, analysis and dissemination resources to meet BA information requirements."
+}, {
+	"id": "2.1.1",
+	"short_title": "Define and Prioritize Requirements (P&D)",
+	"description": "The ability to translate national through tactical objectives and needs into specific information and operational requirements."
+}, {
+	"id": "2.1.2",
+	"short_title": "Develop Strategies (P&D)",
+	"description": "The ability to determine the best approach to collect, process, exploit, analyze, and disseminate data and information to address requirements and predict outcomes."
+}, {
+	"id": "2.1.3",
+	"short_title": "Task and Monitor Resources (P&D)",
+	"description": "The ability to task, track, direct, and adjust BA operations and their associated resources to fulfill requirements."
+}, {
+	"id": "2.1.4",
+	"short_title": "Evaluation (P&D)",
+	"description": "The ability to assess the results of BA operations and products to ensure that user requirements are being met."
+}, {
+	"id": "2.2",
+	"short_title": "Collection",
+	"description": "The ability to gather data and obtain required information to satisfy information needs."
+}, {
+	"id": "2.2.1",
+	"short_title": "Signals Collection",
+	"description": "The ability to gather information based on the interception of electromagnetic impulses."
+}, {
+	"id": "2.2.1.1",
+	"short_title": "Communications (SC)",
+	"description": "The ability to intercept and derive information from voice and data communications."
+}, {
+	"id": "2.2.1.2",
+	"short_title": "Electronic Emissions (SC)",
+	"description": "The ability to intercept and derive information from non-communication-related emitter transmissions."
+}, {
+	"id": "2.2.1.3",
+	"short_title": "Foreign Instrumentation (SC)",
+	"description": "The ability to intercept data from foreign equipment and control systems."
+}, {
+	"id": "2.2.1.4",
+	"short_title": "Cyber Network (SC)",
+	"description": "The ability to gather data from automated information systems, networks, and data bases."
+}, {
+	"id": "2.2.2",
+	"short_title": "Imagery Collection",
+	"description": "The ability to obtain a visual presentation or likeness of any natural or man-made feature, object, or activity at rest or in motion."
+}, {
+	"id": "2.2.2.1",
+	"short_title": "Electro-Optical (IC)",
+	"description": "The ability to obtain a visual presentation of any natural or man-made feature, object, or activity derived from the ultraviolet through far infrared electromagnetic spectrum."
+}, {
+	"id": "2.2.2.2",
+	"short_title": "Light Detection and Ranging (IC)",
+	"description": "The ability to obtain a visual presentation produced by recording pulsed laser light reflected from a given object."
+}, {
+	"id": "2.2.2.3",
+	"short_title": "Radar (IC)",
+	"description": "The ability to obtain a visual presentation produced by recording radar waves from any natural or man-made feature, object, or activity."
+}, {
+	"id": "2.2.2.4",
+	"short_title": "Sonar (IC)",
+	"description": "The ability to measure and characterize surfaces, natural or man-made objects, and layers of the maritime and littoral features."
+}, {
+	"id": "2.2.2.5",
+	"short_title": "Physical Environment (IC)",
+	"description": "The ability to sense or acquire meteorological, oceanographic and space environmental data through measurement, monitoring, and sensor observations."
+}, {
+	"id": "2.2.3",
+	"short_title": "Measurements and Signatures Collection",
+	"description": "The ability to collect parameters and distinctive characteristics of natural or man-made phenomena, equipment, or objects."
+}, {
+	"id": "2.2.3.1",
+	"short_title": "Electro-Optical (MSC)",
+	"description": "The ability to collect information on phenomena that emit, absorb, or reflect electromagnetic energy in the ultraviolet through infrared spectrum."
+}, {
+	"id": "2.2.3.2",
+	"short_title": "Radar (MSC)",
+	"description": "The ability to actively or passively collect energy reflected from any natural or man-made feature, object, or activity."
+}, {
+	"id": "2.2.3.3",
+	"short_title": "Geophysical (MSC)",
+	"description": "The ability to detect phenomena and gather information transmitted through the geophysical area of the earth, oceans, and surrounding atmosphere, including man-made objects."
+}, {
+	"id": "2.2.3.4",
+	"short_title": "Radio-Frequency (MSC)",
+	"description": "The ability to collect information from radiation transmissions and electromagnetic pulses."
+}, {
+	"id": "2.2.3.5",
+	"short_title": "Chemical \/ Biological Materials (MSC)",
+	"description": "The ability to gather information from chemical and biological agents, objects and activities."
+}, {
+	"id": "2.2.3.6",
+	"short_title": "Nuclear Radiation (MSC)",
+	"description": "The ability to obtain information derived from nuclear radiation and other physical phenomena associated with nuclear weapons, reactors, devices, facilities and fissile materials."
+}, {
+	"id": "2.2.4",
+	"short_title": "Human Based Collection",
+	"description": "The ability to acquire information from human resources, human-derived data, and human reconnaissance assets."
+}, {
+	"id": "2.2.4.1",
+	"short_title": "Human Intelligence (HBC)",
+	"description": "The ability to gather information for intelligence purposes derived from information collected and provided by human sources."
+}, {
+	"id": "2.2.4.2",
+	"short_title": "Counterintelligence (CI)",
+	"description": "The ability to gather information and conduct activities to identify, exploit, or protect against threats posed by foreign governments and organizations, foreign persons, or international terrorists."
+}, {
+	"id": "2.2.4.3",
+	"short_title": "Observation (HBC)",
+	"description": "The ability to use human resources to obtain, by visual observation and other detection methods, information about surrounding activities, physical environment, and resources."
+}, {
+	"id": "2.2.4.4",
+	"short_title": "Biometrics Data (HBC)",
+	"description": "The ability to gather information on an individual based on measurable anatomical, physiological, and behavioral characteristics."
+}, {
+	"id": "2.2.4.5",
+	"short_title": "Documents & Media (HBC)",
+	"description": "The ability to obtain information from acquired, seized or open-sourced documents and electronic media."
+}, {
+	"id": "2.2.4.6",
+	"short_title": "Socio-Cultural Data (HBC)",
+	"description": "The ability of human resources applying their knowledge of a language, culture or region to obtain social or cultural information about the operational environment from the individual to national level."
+}, {
+	"id": "2.3",
+	"short_title": "Processing \/ Exploitation",
+	"description": "The ability to transform collected information into forms suitable for further analysis and\/or action by man or machine."
+}, {
+	"id": "2.3.1",
+	"short_title": "Data Transformation (PE)",
+	"description": "The ability to select, focus, simplify, tag and transform overtly or covertly collected data into human or machine interpretable form for further analysis or other action."
+}, {
+	"id": "2.3.2",
+	"short_title": "Information Categorization (PE)",
+	"description": "The ability to identify, classify and verify information associated with time sensitive objectives enabling further analysis or action."
+}, {
+	"id": "2.4",
+	"short_title": "Analysis, Prediction and Production",
+	"description": "The ability to integrate, evaluate, interpret, and predict knowledge and information from available sources to develop intelligence and forecast the future state to enable situational awareness and provide actionable information."
+}, {
+	"id": "2.4.1",
+	"short_title": "Integration (AP)",
+	"description": "The ability to identify, assimilate and correlate relevant information from single or multiple sources."
+}, {
+	"id": "2.4.2",
+	"short_title": "Evaluation (AP)",
+	"description": "The ability to provide focused examination of the information and assess its reliability and credibility to a stated degree of confidence."
+}, {
+	"id": "2.4.3",
+	"short_title": "Interpretation (AP)",
+	"description": "The ability to derive knowledge and develop new insight from gathered information to postulate its significance."
+}, {
+	"id": "2.4.4",
+	"short_title": "Prediction (AP)",
+	"description": "The ability to describe the anticipated future state of the operational\/physical environment based on the depiction of past and current information."
+}, {
+	"id": "2.4.5",
+	"short_title": "Product Generation (AP)",
+	"description": "The ability to develop and tailor intelligence, information, and environmental content and products per customer requirements."
+}, {
+	"id": "2.5",
+	"short_title": "BA Data Dissemination and Relay",
+	"description": "The ability to present, distribute, or make available intelligence, information and environmental content and products that enable understanding of the operational\/physical environment to military and national decision-makers."
+}, {
+	"id": "2.5.1",
+	"short_title": "BA Data Transmission",
+	"description": "The ability to send collected data directly to processing, exploitation, analysis, production and visualization systems, leveraging both Net-Centric information transport and intelligence-controlled systems."
+}, {
+	"id": "2.5.2",
+	"short_title": "BA Data Access",
+	"description": "The ability to provide authorized customer access to data and products, leveraging both Net-Centric computing infrastructure and intelligence-controlled systems."
+}, {
+	"id": "3",
+	"short_title": "Force Application",
+	"description": "The ability to integrate the use of maneuver and engagement in all environments to create the effects necessary to achieve mission objectives."
+}, {
+	"id": "3.1",
+	"short_title": "Maneuver",
+	"description": "The ability to move to a position of advantage in all environments in order to generate or enable the generation of effects in all domains and the information environment."
+}, {
+	"id": "3.1.1",
+	"short_title": "Maneuver to Engage (MTE)",
+	"description": "The ability to move to a position of advantage in all environments in order to employ force."
+}, {
+	"id": "3.1.1.1",
+	"short_title": "Air (MTE)",
+	"description": "The ability to maneuver to engage in the region beginning at the upper boundary of the land or water and extending upward to the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs)."
+}, {
+	"id": "3.1.1.2",
+	"short_title": "Space (MTE)",
+	"description": "The ability to maneuver to engage in the region beginning at the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs) and extending outward."
+}, {
+	"id": "3.1.1.3",
+	"short_title": "Land (MTE)",
+	"description": "The ability to maneuver to engage on the surface of the land."
+}, {
+	"id": "3.1.1.4",
+	"short_title": "Maritime (MTE)",
+	"description": "The ability to maneuver to engage on the surface of the sea."
+}, {
+	"id": "3.1.1.5",
+	"short_title": "Underground (MTE)",
+	"description": "The ability to maneuver to engage beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)"
+}, {
+	"id": "3.1.1.6",
+	"short_title": "Underwater (MTE)",
+	"description": "The ability to maneuver to engage below the surface of a body of water."
+}, {
+	"id": "3.1.1.7",
+	"short_title": "Cyberspace (MTE)",
+	"description": "The ability to maneuver to engage within the interdependent network of information technology infrastructures and the data within them."
+}, {
+	"id": "3.1.2",
+	"short_title": "Maneuver to Insert (MTI)",
+	"description": "The ability to place forces at a position of advantage in all environments."
+}, {
+	"id": "3.1.2.1",
+	"short_title": "Air (MTI)",
+	"description": "The ability to maneuver to insert in the region beginning at the upper boundary of the land or water and extending upward to the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs)."
+}, {
+	"id": "3.1.2.2",
+	"short_title": "Space (MTI)",
+	"description": "The ability to maneuver to insert in the region beginning at the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs) and extending outward."
+}, {
+	"id": "3.1.2.3",
+	"short_title": "Land (MTI)",
+	"description": "The ability to maneuver to insert on the exterior or upper boundary of the land."
+}, {
+	"id": "3.1.2.4",
+	"short_title": "Maritime (MTI)",
+	"description": "The ability to maneuver to insert on the exterior or upper boundary of the sea."
+}, {
+	"id": "3.1.2.5",
+	"short_title": "Underground (MTI)",
+	"description": "The ability to maneuver to insert beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)"
+}, {
+	"id": "3.1.2.6",
+	"short_title": "Underwater (MTI)",
+	"description": "The ability to maneuver to insert below the surface of a body of water."
+}, {
+	"id": "3.1.2.7",
+	"short_title": "Cyberspace (MTI)",
+	"description": "The ability to maneuver to insert within the interdependent network of information technology infrastructures and the data within them."
+}, {
+	"id": "3.1.3",
+	"short_title": "Maneuver to Influence (MTInfl)",
+	"description": "The ability to move to a position of advantage in all environments in order to affect the behavior, capabilities, will, or perceptions of partner, competitor, or adversary leaders, military forces, and relevant populations."
+}, {
+	"id": "3.1.3.1",
+	"short_title": "Air (MTInfl)",
+	"description": "The ability to maneuver to influence in the region beginning at the upper boundary of the land or water and extending upward to the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs)."
+}, {
+	"id": "3.1.3.2",
+	"short_title": "Space (MTInfl)",
+	"description": "The ability to maneuver to influence in the region beginning at the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs) and extending outward."
+}, {
+	"id": "3.1.3.3",
+	"short_title": "Land (MTInfl)",
+	"description": "The ability to maneuver to influence on the exterior or upper boundary of the land."
+}, {
+	"id": "3.1.3.4",
+	"short_title": "Maritime (MTInfl)",
+	"description": "The ability to maneuver to influence on the exterior or upper boundary of the sea."
+}, {
+	"id": "3.1.3.5",
+	"short_title": "Underground (MTInfl)",
+	"description": "The ability to maneuver to influence beneath the surface of the earth, (bunkers, basements, tunnels, caves, etc.)."
+}, {
+	"id": "3.1.3.6",
+	"short_title": "Underwater (MTInfl)",
+	"description": "The ability to maneuver to influence below the surface of a body of water."
+}, {
+	"id": "3.1.3.7",
+	"short_title": "Cyberspace (MTInfl)",
+	"description": "The ability to maneuver to influence within the interdependent network of information technology infrastructures and the data within them."
+}, {
+	"id": "3.1.4",
+	"short_title": "Maneuver to Secure (MTS)",
+	"description": "The ability to control or deny (destroy, remove, contaminate, or block with obstacles) significant areas, with or without force, in the operational area whose possession or control provides either side an operational advantage."
+}, {
+	"id": "3.1.4.1",
+	"short_title": "Air (MTS)",
+	"description": "The ability to secure the region beginning at the upper boundary of the land or water and extending upward to the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs)."
+}, {
+	"id": "3.1.4.2",
+	"short_title": "Space (MTS)",
+	"description": "The ability to secure the region beginning at the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs) and extending outward."
+}, {
+	"id": "3.1.4.3",
+	"short_title": "Land (MTS)",
+	"description": "The ability to secure the surface of the land."
+}, {
+	"id": "3.1.4.3.1",
+	"short_title": "Populations (MTSL)",
+	"description": "The ability to provide security to individuals in an area."
+}, {
+	"id": "3.1.4.3.2",
+	"short_title": "Infrastructure (MTSL)",
+	"description": "The ability to provide security for the basic installations and facilities on which a community depends."
+}, {
+	"id": "3.1.4.3.3",
+	"short_title": "Resources (MTSL)",
+	"description": "The ability to provide security for critical assets."
+}, {
+	"id": "3.1.4.4",
+	"short_title": "Maritime (MTS)",
+	"description": "The ability to secure the surface of the sea."
+}, {
+	"id": "3.1.4.5",
+	"short_title": "Underground (MTS)",
+	"description": "The ability to secure areas beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)."
+}, {
+	"id": "3.1.4.6",
+	"short_title": "Underwater (MTS)",
+	"description": "The ability to secure areas below the surface of a body of water."
+}, {
+	"id": "3.1.4.7",
+	"short_title": "Cyberspace (MTS)",
+	"description": "The ability to maneuver to secure within the interdependent network of information technology infrastructures and the data within them."
+}, {
+	"id": "3.2",
+	"short_title": "Engagement",
+	"description": "The ability to use kinetic and non-kinetic means in all environments to generate the desired lethal and\/or non-lethal effects from all domains and the information environment."
+}, {
+	"id": "3.2.1",
+	"short_title": "Kinetic Means",
+	"description": "The ability to create effects that rely on explosives or physical momentum (i.e., of, relating to, or produced by motion)."
+}, {
+	"id": "3.2.1.1",
+	"short_title": "Fixed Target (EK)",
+	"description": "The ability to kinetically engage a geographic area or object that is unable to move."
+}, {
+	"id": "3.2.1.1.1",
+	"short_title": "Surface (EKF)",
+	"description": "The ability to kinetically engage targets on land or water."
+}, {
+	"id": "3.2.1.1.1.1",
+	"short_title": "Point (EKFS)",
+	"description": "The ability to kinetically engage a target of such small dimension that it requires the accurate placement of ordnance in order to neutralize or destroy it."
+}, {
+	"id": "3.2.1.1.1.1.1",
+	"short_title": "Hardened (EKFSP)",
+	"description": "The ability to kinetically engage targets reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+}, {
+	"id": "3.2.1.1.1.1.2",
+	"short_title": "Soft (EKFSP)",
+	"description": "The ability to kinetically engage targets that are not protected against attack."
+}, {
+	"id": "3.2.1.1.1.1.3",
+	"short_title": "Chemical, Biological, Radiological and Nuclear (EKFSP)",
+	"description": "The ability to kinetically engage targets which include hazardous materials and capabilities associated with chemical, biological, radiological, or nuclear weapons production or storage."
+}, {
+	"id": "3.2.1.1.1.2",
+	"short_title": "Area (EKFS)",
+	"description": "The ability to kinetically engage a target consisting of a region rather than a single point. This includes circular, linear, and irregular shaped targets."
+}, {
+	"id": "3.2.1.1.1.2.1",
+	"short_title": "Hardened (EKFSA)",
+	"description": "The ability to kinetically engage targets reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+}, {
+	"id": "3.2.1.1.1.2.2",
+	"short_title": "Soft (EKFSA)",
+	"description": "The ability to kinetically engage targets that are not protected against attack."
+}, {
+	"id": "3.2.1.1.2",
+	"short_title": "Underground (EKF)",
+	"description": "The ability to kinetically engage targets beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)."
+}, {
+	"id": "3.2.1.1.2.1",
+	"short_title": "Hardened (EKFU)",
+	"description": "The ability to kinetically engage targets reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+}, {
+	"id": "3.2.1.1.2.2",
+	"short_title": "Chemical, Biological, Radiological and Nuclear (EKFU)",
+	"description": "The ability to kinetically engage underground targets that include hazardous materials and capabilities associated with chemical, biological, radiological, or nuclear weapons production or storage."
+}, {
+	"id": "3.2.1.1.2.3",
+	"short_title": "Underwater (EKF)",
+	"description": "The ability to kinetically engage targets below the surface of a body of water."
+}, {
+	"id": "3.2.1.1.3.1",
+	"short_title": "Surf Zone (EKFU)",
+	"description": "The ability to kinetically engage targets under water at a depth of 0-10 feet."
+}, {
+	"id": "3.2.1.1.3.2",
+	"short_title": "Very Shallow (EKFU)",
+	"description": "The ability to kinetically engage targets under water at a depth of 10-40 feet."
+}, {
+	"id": "3.2.1.1.3.3",
+	"short_title": "Shallow (EKFU)",
+	"description": "The ability to kinetically engage targets under water at a depth of 40-200 feet."
+}, {
+	"id": "3.2.1.1.3.4",
+	"short_title": "Deep Water (EKFU)",
+	"description": "The ability to kinetically engage targets under water at depths greater than 200 feet."
+}, {
+	"id": "3.2.1.2",
+	"short_title": "Stationary Target (EK)",
+	"description": "The ability to kinetically engage an object that could move but is currently not moving."
+}, {
+	"id": "3.2.1.2.1",
+	"short_title": "Surface (EKS)",
+	"description": "The ability to kinetically engage targets on land or water."
+}, {
+	"id": "3.2.1.2.1.1",
+	"short_title": "Point (EKSS)",
+	"description": "The ability to kinetically engage a target of such small dimension that it requires the accurate placement of ordnance in order to neutralize or destroy it."
+}, {
+	"id": "3.2.1.2.1.1.1",
+	"short_title": "Hardened (EKSSP)",
+	"description": "The ability to kinetically engage targets reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+}, {
+	"id": "3.2.1.2.1.1.2",
+	"short_title": "Soft (EKSSP)",
+	"description": "The ability to kinetically engage targets that are not protected against attack."
+}, {
+	"id": "3.2.1.2.1.1.3",
+	"short_title": "Chemical, Biological, Radiological and Nuclear (EKSSP)",
+	"description": "The ability to kinetically engage targets which include hazardous materials and capabilities associated with chemical, biological, radiological, or nuclear weapons production or storage."
+}, {
+	"id": "3.2.1.2.1.2",
+	"short_title": "Area (EKSS)",
+	"description": "The ability to kinetically engage a target consisting of a region rather than a single point. This includes circular, linear, and irregular shaped targets."
+}, {
+	"id": "3.2.1.2.1.2.1",
+	"short_title": "Hardened (EKSSA)",
+	"description": "The ability to kinetically engage targets reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+}, {
+	"id": "3.2.1.2.1.2.2",
+	"short_title": "Soft (EKSSA)",
+	"description": "The ability to kinetically engage targets that are not protected against attack."
+}, {
+	"id": "3.2.1.2.2",
+	"short_title": "Underground (EKS)",
+	"description": "The ability to kinetically engage targets beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)."
+}, {
+	"id": "3.2.1.2.2.1",
+	"short_title": "Soft (EKSU)",
+	"description": "The ability to kinetically engage targets that are not protected against attack."
+}, {
+	"id": "3.2.1.2.2.2",
+	"short_title": "Chemical, Biological, Radiological and Nuclear (EKSU)",
+	"description": "The ability to kinetically engage underground targets that include hazardous materials and capabilities associated with chemical, biological, radiological, or nuclear weapons production or storage."
+}, {
+	"id": "3.2.1.2.3",
+	"short_title": "Underwater (EKS)",
+	"description": "The ability to kinetically engage targets below the surface of a body of water."
+}, {
+	"id": "3.2.1.2.3.1",
+	"short_title": "Surf Zone (EKSU)",
+	"description": "The ability to kinetically engage targets under water at a depth of 0-10 feet."
+}, {
+	"id": "3.2.1.2.3.2",
+	"short_title": "Very Shallow (EKSU)",
+	"description": "The ability to kinetically engage targets under water at a depth of 10-40 feet."
+}, {
+	"id": "3.2.1.2.3.3",
+	"short_title": "Shallow (EKSU)",
+	"description": "The ability to kinetically engage targets under water at a depth of 40-200 feet."
+}, {
+	"id": "3.2.1.2.3.4",
+	"short_title": "Deep Water (EKSU)",
+	"description": "The ability to kinetically engage targets under water at depths greater than 200 feet."
+}, {
+	"id": "3.2.1.3",
+	"short_title": "Moving Targets (EK)",
+	"description": "The ability to kinetically engage a system, unit, or person that is in the process of moving from one place to another."
+}, {
+	"id": "3.2.1.3.1",
+	"short_title": "Air (EKM)",
+	"description": "The ability to kinetically engage moving targets in the region beginning at the upper boundary of the land or water and extending upward to the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs)."
+}, {
+	"id": "3.2.1.3.2",
+	"short_title": "Space (EKM)",
+	"description": "The ability to kinetically engage moving targets in the region beginning at the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs) and extending outward."
+}, {
+	"id": "3.2.1.3.3",
+	"short_title": "Surface (EKM)",
+	"description": "The ability to kinetically engage moving targets on land or water."
+}, {
+	"id": "3.2.1.3.3.1",
+	"short_title": "Point (EKMS)",
+	"description": "The ability to kinetically engage a moving targets of such small dimension that it requires the accurate placement of ordnance in order to neutralize or destroy it."
+}, {
+	"id": "3.2.1.3.3.1.1",
+	"short_title": "Hardened (EKMSP)",
+	"description": "The ability to kinetically engage moving targets that are reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+}, {
+	"id": "3.2.1.3.3.1.2",
+	"short_title": "Soft (EKMSP)",
+	"description": "The ability to kinetically engage moving targets that are not protected against attack."
+}, {
+	"id": "3.2.1.3.3.1.3",
+	"short_title": "Chemical, Biological, Radiological and Nuclear (EKMSP)",
+	"description": "The ability to kinetically engage targets that are moving at the time of decision to engage and which include hazardous materials and capabilities associated with chemical, biological, radiological, or nuclear weapons production or storage."
+}, {
+	"id": "3.2.1.3.3.2",
+	"short_title": "Area (EKMS)",
+	"description": "The ability to kinetically engage a large moving target within a region."
+}, {
+	"id": "3.2.1.3.3.2.1",
+	"short_title": "Hardened (EKMSA)",
+	"description": "The ability to kinetically engage moving targets that are reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+}, {
+	"id": "3.2.1.3.3.2.2",
+	"short_title": "Soft (EKMSA)",
+	"description": "The ability to kinetically engage targets that are not protected against attack."
+}, {
+	"id": "3.2.1.3.4",
+	"short_title": "Underground (EKM)",
+	"description": "The ability to kinetically engage moving targets beneath the surface of the earth."
+}, {
+	"id": "3.2.1.3.4.1",
+	"short_title": "Soft (EKMU)",
+	"description": "The ability to kinetically engage targets that are not protected against attack."
+}, {
+	"id": "3.2.1.3.4.2",
+	"short_title": "Chemical, Biological, Radiological and Nuclear (EKMU)",
+	"description": "The ability to kinetically engage targets that are moving at the time of decision to engage and which include hazardous materials and capabilities associated with chemical, biological, radiological, or nuclear weapons production or storage."
+}, {
+	"id": "3.2.1.3.5",
+	"short_title": "Underwater (EKM)",
+	"description": "The ability to kinetically engage moving targets below the surface of a body of water."
+}, {
+	"id": "3.2.1.3.5.1",
+	"short_title": "Surf Zone (EKMU)",
+	"description": "The ability to kinetically engage targets under water at a depth of 0-10 feet."
+}, {
+	"id": "3.2.1.3.5.2",
+	"short_title": "Very Shallow (EKMU)",
+	"description": "The ability to kinetically engage targets under water at a depth of 10-40 feet."
+}, {
+	"id": "3.2.1.3.5.3",
+	"short_title": "Shallow (EKMU)",
+	"description": "The ability to kinetically engage targets under water at a depth of 40-200 feet."
+}, {
+	"id": "3.2.1.3.5.4",
+	"short_title": "Deep Water (EKMU)",
+	"description": "The ability to kinetically engage targets under water at depths greater than 200 feet."
+}, {
+	"id": "3.2.2",
+	"short_title": "Non-Kinetic Means",
+	"description": "The ability to create effects that do not rely on explosives or physical momentum. (e.g., directed energy, computer viruses\/hacking, chemical, and biological)."
+}, {
+	"id": "3.2.2.1",
+	"short_title": "Fixed Target (ENK)",
+	"description": "The ability to non-kinetically engage a geographic area or object that is unable to move."
+}, {
+	"id": "3.2.2.1.1",
+	"short_title": "Surface (ENKF)",
+	"description": "The ability to non-kinetically engage targets on the land or water."
+}, {
+	"id": "3.2.2.1.1.1",
+	"short_title": "Point (ENKFS)",
+	"description": "The ability to non-kinetically engage a target of such small dimension that it requires the accurate placement of ordnance in order to neutralize or destroy it."
+}, {
+	"id": "3.2.2.1.1.2",
+	"short_title": "Area (ENKFS)",
+	"description": "The ability to non-kinetically engage a target consisting of a region rather than a single point. This includes circular, linear, and irregular shaped targets."
+}, {
+	"id": "3.2.2.1.2",
+	"short_title": "Underground (ENKF)",
+	"description": "The ability to non-kinetically engage targets beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)."
+}, {
+	"id": "3.2.2.1.3",
+	"short_title": "Underwater (ENKF)",
+	"description": "The ability to non-kinetically engage targets below the surface of a body of water."
+}, {
+	"id": "3.2.2.2",
+	"short_title": "Stationary Target (ENK)",
+	"description": "The ability to non-kinetically engage an object that could move but is currently not moving."
+}, {
+	"id": "3.2.2.2.1",
+	"short_title": "Surface (ENKS)",
+	"description": "The ability to non-kinetically engage targets on the exterior or upper boundary of the land or water."
+}, {
+	"id": "3.2.2.2.1.1",
+	"short_title": "Point (ENKSS)",
+	"description": "The ability to non-kinetically engage a target of such small dimension that it requires the accurate placement of ordnance in order to neutralize or destroy it."
+}, {
+	"id": "3.2.2.2.1.2",
+	"short_title": "Area (ENKSS)",
+	"description": "The ability to non-kinetically engage a target consisting of a region rather than a single point. This includes circular, linear, and irregular shaped targets."
+}, {
+	"id": "3.2.2.2.2",
+	"short_title": "Underground (ENKS)",
+	"description": "The ability to non-kinetically engage targets beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)."
+}, {
+	"id": "3.2.2.2.3",
+	"short_title": "Underwater (ENKS)",
+	"description": "The ability to non-kinetically engage targets below the surface of a body of water."
+}, {
+	"id": "3.2.2.3",
+	"short_title": "Moving Targets (ENK)",
+	"description": "The ability to non-kinetically engage a system, unit, or person that is in the process of moving."
+}, {
+	"id": "3.2.2.3.1",
+	"short_title": "Air (ENKM)",
+	"description": "The ability to non-kinetically engage moving targets in the region beginning at the upper boundary of the land or water and extending upward to the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs)."
+}, {
+	"id": "3.2.2.3.2",
+	"short_title": "Space (ENKM)",
+	"description": "The ability to non-kinetically engage moving targets in the region beginning at the lower boundary of the Earth\u2019s ionosphere (approximately 50 KMs) and extending outward."
+}, {
+	"id": "3.2.2.3.3",
+	"short_title": "Surface (ENKM)",
+	"description": "The ability to non-kinetically engage moving targets on the exterior or upper boundary of the land or water."
+}, {
+	"id": "3.2.2.3.3.1",
+	"short_title": "Point (ENKMS)",
+	"description": "The ability to non-kinetically engage a moving target of such small dimension that it requires the accurate placement of ordnance in order to neutralize or destroy it."
+}, {
+	"id": "3.2.2.3.3.2",
+	"short_title": "Area (ENKMS)",
+	"description": "The ability to non-kinetically engage a moving target consisting of a region rather than a single point. This includes circular, linear, and irregular shaped targets."
+}, {
+	"id": "3.2.2.3.4",
+	"short_title": "Underground (ENKM)",
+	"description": "The ability to non-kinetically engage moving targets beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)."
+}, {
+	"id": "3.2.2.3.5",
+	"short_title": "Underwater (ENKM)",
+	"description": "The ability to non-kinetically engage moving targets below the surface of a body of water."
+}, {
+	"id": "3.2.2.4",
+	"short_title": "Cyberspace (ENK)",
+	"description": "The ability to conduct non-kinetic engagements to attack and defend the interdependent network of information technology infrastructures and the data within them."
+}, {
+	"id": "3.2.2.4.1",
+	"short_title": "Computer Network Attack",
+	"description": "The ability to disrupt, deny, degrade, or destroy information resident in information technology infrastructures, or the information technology infrastructure itself."
+}, {
+	"id": "3.2.2.4.2",
+	"short_title": "Computer Network Defense",
+	"description": "The Ability to employ operational defensive measures to counter unauthorized activity within the Department of Defense information systems and information technology infrastructure."
+}, {
+	"id": "3.2.2.5",
+	"short_title": "Electromagnetic Spectrum (ENK)",
+	"description": "The ability to conduct non-kinetic engagements against an adversary\u2019s use of the range of electromagnetic radiation."
+}, {
+	"id": "3.2.2.5.1",
+	"short_title": "Position, Navigation and Timing (ENKES)",
+	"description": "The ability to disrupt, deny, degrade or destroy an adversary\u2019s use of position, navigation and timing sources."
+}, {
+	"id": "3.2.2.5.2",
+	"short_title": "Radar (ENKES)",
+	"description": "The ability to disrupt, deny, degrade or destroy an adversary\u2019s use of radio ranging technology."
+}, {
+	"id": "3.2.2.5.3",
+	"short_title": "Communications (ENKES)\u00a0",
+	"description": "The ability to disrupt, deny, degrade or destroy an adversary\u2019s use of signals technology."
+}, {
+	"id": "3.2.2.5.4",
+	"short_title": "Intelligence, Surveillance and Reconnaissance (ENKES)",
+	"description": "The ability to disrupt, deny, degrade or destroy adversarial intelligence, surveillance and reconnaissance capabilities."
+}, {
+	"id": "3.2.2.6",
+	"short_title": "Chemical, Biological, Radiological and Nuclear (ENK)",
+	"description": "The ability to non-kinetically engage targets which include hazardous materials and capabilities associated with chemical, biological, radiological, or nuclear weapons production or storage."
+}, {
+	"id": "4",
+	"short_title": "Logistics",
+	"description": "The ability to project and sustain a logistically ready joint force through the deliberate sharing of national and multi-national resources to effectively support operations, extend operational reach and provide the joint force commander the freedom of action necessary to meet mission objectives."
+}, {
+	"id": "4.1",
+	"short_title": "Deployment and Distribution",
+	"description": "The ability to plan, coordinate, synchronize, and execute force movement and sustainment tasks in support of military operations. Deployment and distribution includes the ability to strategically and operationally move forces and sustainment to the point of need and operate the Joint Deployment and Distribution Enterprise."
+}, {
+	"id": "4.1.1",
+	"short_title": "Move the Force",
+	"description": "The ability to transport units, equipment and initial sustainment from the point of origin to the point of need and provide JDDE resources to augment or support operational movement requirements of the JFC."
+}, {
+	"id": "4.1.1.1",
+	"short_title": "Strategically Move the Force",
+	"description": "The ability to move forces, equipment and initial sustainment over intertheater distances."
+}, {
+	"id": "4.1.1.2",
+	"short_title": "Operationally Move the Force",
+	"description": "The ability to move forces, equipment, and initial sustainment within theater operational areas and over intratheater distances."
+}, {
+	"id": "4.1.2",
+	"short_title": "Sustain the Force",
+	"description": "The ability to deliver supplies, equipment and personnel replacements to the joint force."
+}, {
+	"id": "4.1.2.1",
+	"short_title": "Deliver Non-Unit-Related Cargo",
+	"description": "The ability to move non-unit-related cargo (supplies and equipment) between point of origin and point of need."
+}, {
+	"id": "4.1.2.2",
+	"short_title": "Deliver Non-Unit-Related Personnel",
+	"description": "The ability to deliver and retrograde non-unit-related personnel between point of origin and point of need."
+}, {
+	"id": "4.1.3",
+	"short_title": "Operate the Joint Deployment and Distribution Enterprise",
+	"description": "The ability to control, conduct and protect Joint Deployment Distribution Enterprise (JDDE) operations and accomplish necessary JDDE capability development activities to operate across the strategic, operational, and tactical continuum with integrated, robust, and responsive physical, information, communication and financial networks."
+}, {
+	"id": "4.2",
+	"short_title": "Supply",
+	"description": "The ability to identify and select supply sources, schedule deliveries, receive, verify, and transfer product and authorize supplier payments. It includes the ability to see and manage inventory levels, capital assets, business rules, supplier networks and agreements (to include import requirements) as well as assessment of supplier performance."
+}, {
+	"id": "4.2.1",
+	"short_title": "Manage Supplies and Equipment",
+	"description": "The ability to maintain accountability and set retention levels of materiel and equipment."
+}, {
+	"id": "4.2.2",
+	"short_title": "Inventory Management",
+	"description": "The ability to receive materiel in the right quality and quantity and to enable precise distribution and transfer of materiel to the customer while integrating and optimizing the links or business processes between supply nodes, maintenance, and distribution providers."
+}, {
+	"id": "4.2.3",
+	"short_title": "Manage Global Supplier Networks",
+	"description": "The ability to source routine and surge requirements from the U.S. industrial base, ensure global supply availability and the capacity to support operations involving U.S., IA, PVO, and MN partners engaged in ever changing military activities around the globe."
+}, {
+	"id": "4.2.4",
+	"short_title": "Assess Global Requirements, Resources, Capabilities and Risks",
+	"description": "The ability to assess in real-time global requirements\/demands against available resources and capabilities, make recommendations where supplies should be positioned to include WRM and prepositioned assets, and to mitigate risks."
+}, {
+	"id": "4.2.5",
+	"short_title": "Operate the Joint Supply Enterprise (JSE)",
+	"description": "The ability to work collaboratively with all partners and customers within a networked JSE, i.e., net-centric environment, to attain real time global visibility of requirements, total inventory, resources and capabilities, share knowledge and information, conduct integrated joint supply operations and performance reviews, and when required, coordinate adjustments to the end-to-end supply process and capabilities to optimize performance for the JFC."
+}, {
+	"id": "4.3",
+	"short_title": "Maintain",
+	"description": "The ability to manufacture and retain or restore materiel in a serviceable condition."
+}, {
+	"id": "4.3.1",
+	"short_title": "Depot Maintenance",
+	"description": "The ability to perform materiel maintenance requiring major overhaul, or a complete rebuilding of parts, assemblies, subassemblies, and end items to include the manufacture of parts, modifications, testing, and reclamation as required, provide stocks of serviceable equipment, and support field maintenance by providing technical assistance or performing maintenance tasks beyond their responsibility."
+}, {
+	"id": "4.3.1.1",
+	"short_title": "Inspect",
+	"description": "The ability to determine faults or verify repairs or determine condition of an item of equipment based on established equipment maintenance and serviceability standards."
+}, {
+	"id": "4.3.1.2",
+	"short_title": "Test",
+	"description": "The ability to evaluate the operational condition of an end item or subsystem thereof against an established standard or performance parameter."
+}, {
+	"id": "4.3.1.3",
+	"short_title": "Service",
+	"description": "The ability to conduct preventive maintenance checks and scheduled maintenance to detect, correct or prevent minor faults before these faults cause serious damage, failure, or injury."
+}, {
+	"id": "4.3.1.3.1",
+	"short_title": "Activate \/ Inactivate",
+	"description": "The ability to return an item from preservation, storage, or inactive status to an active, serviceable status by means of removal from storage and containers, stripping, inspection, servicing, testing and repair, or replacement of components, assemblies, or subassemblies as required."
+}, {
+	"id": "4.3.1.3.2",
+	"short_title": "Reclaim",
+	"description": "The ability to process authorized end items, assemblies, or subassemblies to obtain parts or components that are to be retained in operating materials and supplies prior to taking disposal action. Includes demilitarization actions on items prior to disposal."
+}, {
+	"id": "4.3.1.4",
+	"short_title": "Repair",
+	"description": "The ability to restore an item to serviceable condition through correction of a specific failure or condition."
+}, {
+	"id": "4.3.1.5",
+	"short_title": "Rebuild",
+	"description": "The ability to recapitalize an item to a standard as nearly as possible to its original condition in appearance, performance, and life expectancy."
+}, {
+	"id": "4.3.1.5.1",
+	"short_title": "Modify",
+	"description": "The ability to change an item such that one or more measurable characteristics is altered to improve equipment performance, increase reliability, improve supportability, or enhance safety. Modify includes conversion of items to change their mission, performance, or capability."
+}, {
+	"id": "4.3.1.5.2",
+	"short_title": "Renovate",
+	"description": "The ability to prove, test, evaluate, inspect, and rework ammunition or ordnance items as required for retaining their desired capability."
+}, {
+	"id": "4.3.1.6",
+	"short_title": "Calibrate",
+	"description": "The ability to compare an instrument with an unverified accuracy to an instrument of known or greater accuracy to detect and correct any discrepancy in the accuracy of the unverified instrument."
+}, {
+	"id": "4.3.2",
+	"short_title": "Field Maintenance",
+	"description": "The ability to perform organizational, on-system work and intermediate, shop-type work at maintenance levels other than depot."
+}, {
+	"id": "4.3.2.1",
+	"short_title": "Inspect",
+	"description": "The ability to determine faults or verify repairs or determine condition of an item of equipment based on established equipment maintenance and serviceability standards."
+}, {
+	"id": "4.3.2.2",
+	"short_title": "Test",
+	"description": "The ability to evaluate the operational condition of an end item or subsystem thereof against an established standard or performance parameter."
+}, {
+	"id": "4.3.2.3",
+	"short_title": "Service",
+	"description": "The ability to conduct preventive maintenance checks and scheduled maintenance to detect, correct or prevent minor faults before these faults cause serious damage, failure, or injury."
+}, {
+	"id": "4.3.2.3.1",
+	"short_title": "Activate \/ Inactivate",
+	"description": "The ability to return an item from preservation, storage, or inactive status to an active, serviceable status by means of removal from storage and containers, stripping, inspection, servicing, testing and repair, or replacement of components, assemblies, or subassemblies as required."
+}, {
+	"id": "4.3.2.3.2",
+	"short_title": "Reclaim",
+	"description": "The ability to process authorized end items, assemblies, or subassemblies to obtain parts or components that are to be retained in operating materials and supplies prior to taking disposal action. Includes demilitarization actions on items prior to disposal."
+}, {
+	"id": "4.3.2.4",
+	"short_title": "Repair",
+	"description": "The ability to restore an item to serviceable condition through correction of a specific failure or condition."
+}, {
+	"id": "4.3.2.5",
+	"short_title": "Rebuild",
+	"description": "The ability to recapitalize an item to a standard as nearly as possible to its original condition in appearance, performance, and life expectancy."
+}, {
+	"id": "4.3.2.5.1",
+	"short_title": "Modify",
+	"description": "The ability to change an item such that one or more measurable characteristics is altered to improve equipment performance, increase reliability, improve supportability, or enhance safety. Modify includes conversion of items to change their mission, performance, or capability."
+}, {
+	"id": "4.3.2.5.2",
+	"short_title": "Renovate",
+	"description": "The ability to prove, test, evaluate, inspect, and rework ammunition or ordnance items as required for retaining their desired capability."
+}, {
+	"id": "4.3.2.6",
+	"short_title": "Calibrate",
+	"description": "The ability to compare an instrument with an unverified accuracy to an instrument of known or greater accuracy to detect and correct any discrepancy in the accuracy of the unverified instrument."
+}, {
+	"id": "4.4",
+	"short_title": "Logistics Services",
+	"description": "The ability to provide services and functions essential to the technical management and support of the joint force."
+}, {
+	"id": "4.4.1",
+	"short_title": "Food Service",
+	"description": "The ability to plan, synchronize and manage subsistence support to the joint force to include dining facility management, subsistence procurement and storage, food preparation, field feeding and nutrition awareness."
+}, {
+	"id": "4.4.1.1",
+	"short_title": "Contingency Base Feeding",
+	"description": "The ability to receive, store, prepare, and serve nutritious meals, authorized enhancements, and supplements in a sanitary dining facility at non-enduring locations or afloat, based on ration cycle and mix, with the ability to project meals to disbursed populations."
+}, {
+	"id": "4.4.1.2",
+	"short_title": "Forward Unit Feeding",
+	"description": "The ability to receive, store, centrally prepare and serve operational rations, authorized enhancements, and supplements under sanitary field feeding conditions to disbursed populations in a tactical field environment."
+}, {
+	"id": "4.4.1.3",
+	"short_title": "Remote Unit Feeding",
+	"description": "The ability to receive, store, and prepare meals, authorized enhancements, and supplements under sanitary field feeding conditions to dispersed populations and return the supporting equipment."
+}, {
+	"id": "4.4.1.4",
+	"short_title": "Installation Feeding",
+	"description": "The ability to receive, store, prepare and serve nutritious meals, authorized enhancements, and supplements in a sanitary dining facility at an enduring location or afloat based on Service ration cycle and mix, with the ability to project meals to disbursed populations."
+}, {
+	"id": "4.4.2",
+	"short_title": "Water and Ice Service",
+	"description": "The ability to produce, test, store and distribute bulk, packaged and frozen water in a contingency environment."
+}, {
+	"id": "4.4.2.1",
+	"short_title": "Bulk Water (non-potable)",
+	"description": "The ability to provide and distribute fresh, brackish, or seawater from storage to point of use that has not been treated or disinfected and has not been approved for human consumption."
+}, {
+	"id": "4.4.2.2",
+	"short_title": "Bulk Water (potable)",
+	"description": "The ability to produce, inspect, and distribute bulk potable water from storage to point of use."
+}, {
+	"id": "4.4.2.3",
+	"short_title": "Packaged Water (bottled\/pouched)",
+	"description": "The ability to provide potable bottled\/packaged water for individual consumption."
+}, {
+	"id": "4.4.2.4",
+	"short_title": "Ice Service",
+	"description": "The ability to provide block, crushed, and cubed ice to support feeding, medical, mortuary affairs, and individual hydration."
+}, {
+	"id": "4.4.3",
+	"short_title": "Contingency Base Services",
+	"description": "The ability to provide shelter, billeting, waste management and common user life support management in an a contingency environment."
+}, {
+	"id": "4.4.3.1",
+	"short_title": "Shelter",
+	"description": "The ability to provide covered areas and other spaces for industrial operations, administration, and personnel."
+}, {
+	"id": "4.4.3.2",
+	"short_title": "Billeting",
+	"description": "The ability to provide lodging to steady state, surge and ebb populations."
+}, {
+	"id": "4.4.3.3",
+	"short_title": "Utility Operations",
+	"description": "The ability to manage and operate power, environmental control, water, and waste systems."
+}, {
+	"id": "4.4.3.4",
+	"short_title": "Water Reuse",
+	"description": "The ability to collect, process, and return grey water from showers and laundries for re-use in showers and laundry."
+}, {
+	"id": "4.4.4",
+	"short_title": "Hygiene Services",
+	"description": "The ability to provide laundry, shower, textile and fabric repair support."
+}, {
+	"id": "4.4.4.1",
+	"short_title": "Personal Hygiene Services",
+	"description": "The ability to provide personal shower and sink facilities and human waste collection and processing for individuals of both sexes in a field environment."
+}, {
+	"id": "4.4.4.2",
+	"short_title": "Textile Services",
+	"description": "The ability to receive, segregate, clean, repair, replace, and return individual clothing, light textile items, and individual equipment (OCIE) in a field environment."
+}, {
+	"id": "4.4.5",
+	"short_title": "Mortuary Affairs",
+	"description": "The ability to provide for search, recovery, identification, evacuation, preparation, and disposition of remains of persons and personal effects for whom the DoD Components are responsible by policy and statute."
+}, {
+	"id": "4.5",
+	"short_title": "Operational Contract Support",
+	"description": "The ability to orchestrate and synchronize the provision of integrated contract support and management of contractor personnel providing that support to the joint force in a designated operational area."
+}, {
+	"id": "4.5.1",
+	"short_title": "Contract Support Integration",
+	"description": "The ability to synchronize and integrate contract support being executed in a designated operational area in support of the Joint Force."
+}, {
+	"id": "4.5.2",
+	"short_title": "Contractor Management",
+	"description": "The ability to manage and maintain visibility of associated contractor personnel providing support to the Joint Force in a designated operational area."
+}, {
+	"id": "4.5.3",
+	"short_title": "Program Management",
+	"description": "The ability to enable the planning, organizing, staffing, controlling, and leading of OCS efforts required to meet the Joint Force Commander's objectives."
+}, {
+	"id": "4.5.4",
+	"short_title": "Requirements Definition",
+	"description": "The ability of the Services and the Combatant Commands as appropriate to manage requirements from determination of need, development of acquisition-ready packages, through delivery and closure or transition."
+}, {
+	"id": "4.6",
+	"short_title": "Engineering",
+	"description": "The ability to execute and integrate combat, general, and geospatial engineering to meet national and JFC requirements to assure mobility, provide infrastructure to position, project, protect, and sustain the joint force, and enhance visualization of the operational area, across the full spectrum of military operations."
+}, {
+	"id": "4.6.1",
+	"short_title": "General Engineering",
+	"description": "The ability to employ engineering capabilities and activities, other than combat engineering, that modify, maintain, or protect the physical environment. Examples include: the construction, repair, maintenance, and operation of infrastructure, facilities, lines of communication and bases; terrain modification and repair; and selected explosive hazard activities."
+}, {
+	"id": "4.6.1.1",
+	"short_title": "Gap Crossing",
+	"description": "The ability to enable joint forces to overcome breaks or openings in terrain (dry or wet, natural or man-made) by providing a system of temporary and permanent crossing techniques and equipment."
+}, {
+	"id": "4.6.1.2",
+	"short_title": "Develop and Maintain Facilities",
+	"description": "The ability to develop, rehabilitate, and maintain bases and installations by providing design, real estate, construction and environmental services which extend through final disposition."
+}, {
+	"id": "4.6.1.3",
+	"short_title": "Establish Lines of Communications",
+	"description": "The ability to assess, construct, repair, and improve routes, railroads, intermodal facilities, and supporting infrastructure to allow the speedy flow of personnel, supplies, and equipment into theater and forward to tactical units."
+}, {
+	"id": "4.6.1.4",
+	"short_title": "Global Access Engineering",
+	"description": "The ability to enable theater access by determining and documenting infrastructure capacities, in-situ soils, hydrology, and environmental conditions, and forecast and mitigate limitations to enable deployment and improve throughput capacities."
+}, {
+	"id": "4.6.1.5",
+	"short_title": "Repair and Restore Infrastructure",
+	"description": "The ability to rehabilitate critical infrastructure. This capability includes repairing or demolishing damaged buildings, restoring utilities such as electrical power, and bringing critical facilities such as hospitals, water treatment plants and waste management facilities online."
+}, {
+	"id": "4.6.1.6",
+	"short_title": "Harden Key Infrastructure and Facilities",
+	"description": "The ability to apply site- and threat-adaptable plans and designs, advanced construction techniques and materials in order to enhance the prevention or mitigation of hostile actions against materiel resources, facilities and infrastructure."
+}, {
+	"id": "4.6.1.7",
+	"short_title": "Master Facility Design",
+	"description": "The ability to integrate land use, bills of material and forecasts, and construction requirements that facilitate project execution and developing infrastructure and facilities."
+}, {
+	"id": "4.6.2",
+	"short_title": "Combat Engineering",
+	"description": "The ability to employ engineering capabilities and activities that support the maneuver of land combat forces and that require close support to those forces. Combat engineering consists of three types of capabilities and activities: mobility, countermobility, and survivability."
+}, {
+	"id": "4.6.2.1",
+	"short_title": "Defeat Explosive Hazards",
+	"description": "The ability to locate and neutralize the full range of enemy and friendly explosive hazards that may impede routine operations, decrease mobility or present a threat to force protection. It includes the capability to locate, avoid, and neutralize hazards in concert with mounted or dismounted maneuver (breach) or as part of tactical\/operational movement (route clearance)."
+}, {
+	"id": "4.6.2.2",
+	"short_title": "Enhance Mobility",
+	"description": "The ability to enable both mounted and dismounted movement and maneuver where and when desired without interruption or delay through complex terrain (ranging from littoral to mountainous areas), built up areas (cities, towns, and villages to include subterranean structures), and complex manmade and natural obstacles to achieve the commander\u2019s intent without loss of speed or flexibility."
+}, {
+	"id": "4.6.2.3",
+	"short_title": "Deny Movement and Maneuver",
+	"description": "The ability to enable the Joint Force Commander to quickly dominate terrain and modify the physical environment in order to isolate forces, deny key terrain and impede, deny or canalize movement via lethal and non-lethal means."
+}, {
+	"id": "4.6.2.4",
+	"short_title": "Enhance Survivability",
+	"description": "The ability to provide coordinated and synchronized engineer support (including camouflage techniques) and construction to increase force protection and conserve the Joint Force\u2019s fighting capabilities and freedom of action."
+}, {
+	"id": "4.6.3",
+	"short_title": "Geospatial Engineering",
+	"description": "The ability to portray and refine data pertaining to the geographic location and characteristics of natural or constructed features and boundaries in order to provide engineer services. Examples include: terrain analyses, terrain visualization, digitized terrain products, nonstandard tailored map products, facility support, and force beddown analysis."
+}, {
+	"id": "4.6.3.1",
+	"short_title": "Utilize Geospatial Data",
+	"description": "The ability to provide the Joint Force Commander with the foundation layer of the operational environment for use with collaborative decision-support, and terrain analysis tools."
+}, {
+	"id": "4.6.3.2",
+	"short_title": "Provide Mobility Assessments",
+	"description": "The ability to understand a planned area of operations through the development of assessments on aerial and sea ports, transportation networks, cross country mobility, and mobility corridors."
+}, {
+	"id": "4.7",
+	"short_title": "Base and Installations Support",
+	"description": "The ability to provide enduring bases and installations with the assets, programs, and services necessary to support US military forces."
+}, {
+	"id": "4.7.1",
+	"short_title": "Real Property Life Cycle Management",
+	"description": "The ability to acquire, operate, sustain, recapitalize, realign, and dispose of real property assets to meet the requirements of the force."
+}, {
+	"id": "4.7.1.1",
+	"short_title": "Provide Installation Assets",
+	"description": "The ability to purchase, lease, program for construction, or gain real property installation assets by any other means, including all land, natural resources, anything growing on the land, buildings, structures, housing, stationary mobile facilities, linear structures, firmly attached and integrated equipment (such as light fixtures), plus all "
+}, {
+	"id": "4.7.1.2",
+	"short_title": "Facilities Support",
+	"description": "The ability to provide functional real property installation assets with utilities"
+}, {
+	"id": "4.7.1.3",
+	"short_title": "Sustainment of Installation Assets",
+	"description": "The ability to assess, preserve, maintain, and repair any built, natural, and cultural installation assets. Includes regular surveys and inspections, and measures to comply with environmental and conservation requirements."
+}, {
+	"id": "4.7.1.4",
+	"short_title": "Recapitalization of Installation Assets",
+	"description": "The ability to perform the restoration, modernization, and replacement of installation assets to meet tenant requirements and comply with safety and environmental laws to include cleanup of contamination from hazardous substances, pollutants, and contaminants."
+}, {
+	"id": "4.7.1.5",
+	"short_title": "Disposal of Installation Assets",
+	"description": "The ability to conduct demolition and disposal activities resulting in the removal of installation assets from the asset inventory by any means, with consideration of the impact to local communities."
+}, {
+	"id": "4.7.1.6",
+	"short_title": "Economic Adjustment Activities",
+	"description": "The ability to provide and manage activities to assist communities impacted by changes in the Defense footprint caused by base closures, realignments, expansions, or significant changes in Defense industry employment. Includes assessing economic hardships, evaluating alternatives for local recovery, identifying resource requirements, and assisting in creating action plans."
+}, {
+	"id": "4.7.2",
+	"short_title": "Installation Services",
+	"description": "The ability to deliver selected services not related to real property (or personnel services) to meet the requirements of the installation population and mission."
+}, {
+	"id": "4.7.2.1",
+	"short_title": "Security Services",
+	"description": "The ability to provide law enforcement functions and physical security to an installation."
+}, {
+	"id": "4.7.2.1.1",
+	"short_title": "Law Enforcement",
+	"description": "The ability to provide the functions of Law Enforcement (LE) operations."
+}, {
+	"id": "4.7.2.1.2",
+	"short_title": "Base Physical Security",
+	"description": "The ability to provide Physical Security operations and support functions to safeguard personnel, prevent unauthorized access to equipment, installations\/ facilities, material and documents, and to safeguard them against espionage, sabotage, damage and theft."
+}, {
+	"id": "4.7.2.2",
+	"short_title": "Emergency Services",
+	"description": "The ability to protect and rescue people, facilities, aircrews, aircraft and other assets from loss due to accident or disaster."
+}, {
+	"id": "4.7.2.3",
+	"short_title": "Installation Safety",
+	"description": "The ability to prevent and respond to accidents and mitigate risk to the lowest acceptable level."
+}, {
+	"id": "4.7.2.4",
+	"short_title": "Base Support Vehicles and Equipment",
+	"description": "The ability to manage the procurement, dispatch, operation, maintenance, and disposal of all non-tactical, government-owned and controlled vehicles and transportation related equipment used for the day-to-day support of installation operations."
+}, {
+	"id": "4.7.2.5",
+	"short_title": "Housing Services",
+	"description": "The ability to manage housing or billeting assignments, referrals, and physical asset management, and provide necessary furnishings and equipment."
+}, {
+	"id": "4.7.2.6",
+	"short_title": "Airfield Management",
+	"description": "The ability to provide airfield services including weather, air traffic control, terminal\/special use airspace management, airfield and flight management, cargo and passenger services, and transient aircraft support."
+}, {
+	"id": "4.7.2.7",
+	"short_title": "Port Services",
+	"description": "The ability to perform and provide port services including ship movements, berth days, magnetic silencing, cargo handling, transient vessel support, and waterborne spill response at DoD and commercial seaports."
+}, {
+	"id": "4.7.2.8",
+	"short_title": "Range Management",
+	"description": "The ability to safely maintain, schedule, control and monitor ranges, and uses associated with airspace\/sea space and safety zone environments related to fixed point (non-maneuver) ranges."
+}, {
+	"id": "4.7.2.9",
+	"short_title": "Launch Support Services",
+	"description": "The ability to provide assistance for payload and launch vehicles including safety, reception, staging, integration, movement to the launch platform and return to use activities after launch operations at Federal and commercial spaceports."
+}, {
+	"id": "5",
+	"short_title": "Command and Control",
+	"description": "The ability to exercise authority and direction by a properly designated commander or decision maker over assigned and attached forces and resources in the accomplishment of the mission."
+}, {
+	"id": "5.1",
+	"short_title": "Organize",
+	"description": "The ability to align or synchronize interdependent and disparate entities, including their associated processes and capabilities to achieve unity of effort."
+}, {
+	"id": "5.1.1",
+	"short_title": "Establish and Maintain Unity of Effort with Mission Partners",
+	"description": "The ability to foster and maintain cooperative relations with mission partners."
+}, {
+	"id": "5.1.1.1",
+	"short_title": "Cultivate Relations with Mission Partners",
+	"description": "The ability to facilitate professional and personal relationships with military and civilian counterparts."
+}, {
+	"id": "5.1.1.2",
+	"short_title": "Cultivate Coordination with Partner Organizations",
+	"description": "The ability to facilitate and sustain organizational synergy with military and civilian counterparts."
+}, {
+	"id": "5.1.2",
+	"short_title": "Structure Organization to Mission",
+	"description": "The ability to dynamically organize elements and define roles, responsibilities, and authorities."
+}, {
+	"id": "5.1.2.1",
+	"short_title": "Define Structure",
+	"description": "The ability to organize forces to best accomplish the mission."
+}, {
+	"id": "5.1.2.2",
+	"short_title": "Assess Capabilities",
+	"description": "The ability to determine existing and future functional competencies."
+}, {
+	"id": "5.1.2.3",
+	"short_title": "Assign Roles and Responsibilities",
+	"description": "The ability to assign and refine appropriate decision authorities and accountability between leaders and subordinates."
+}, {
+	"id": "5.1.2.4",
+	"short_title": "Integrate Capabilities",
+	"description": "The ability to understand, select and synthesize contributing functional competencies to achieve optimized action."
+}, {
+	"id": "5.1.2.5",
+	"short_title": "Establish Commander\u2019s Expectations",
+	"description": "The ability to provide command priorities, intent, guidance, and standards to planning, execution, and assessment."
+}, {
+	"id": "5.1.3",
+	"short_title": "Foster Organizational Collaboration",
+	"description": "The ability to establish internal structures and processes and external interfaces that facilitate interaction and coordination."
+}, {
+	"id": "5.1.3.1",
+	"short_title": "Establish Collaboration Policies",
+	"description": "The ability to promulgate authoritative direction that facilitates the exchange of information and ideas."
+}, {
+	"id": "5.1.3.2",
+	"short_title": "Establish Collaborative Procedures",
+	"description": "The ability to define and develop the mechanism and methodologies to ensure mission partners fully leverage shared information and the exchange of ideas."
+}, {
+	"id": "5.2",
+	"short_title": "Understand",
+	"description": "The ability to individually and collectively comprehend the implications of the character, nature, or subtleties of information about the environment and situation to aid decision-making."
+}, {
+	"id": "5.2.1",
+	"short_title": "Organize Information",
+	"description": "The ability to discover, select, and distill information within an established context."
+}, {
+	"id": "5.2.1.1",
+	"short_title": "Compile Information",
+	"description": "The ability to gather information from available sources (e.g. friendly, adversary, neutral, environmental, sociological)"
+}, {
+	"id": "5.2.1.2",
+	"short_title": "Distill Information",
+	"description": "The ability to filter and refine the discovery and selection of information."
+}, {
+	"id": "5.2.1.3",
+	"short_title": "Disseminate Information",
+	"description": "The ability to present the refined information to enable comprehension."
+}, {
+	"id": "5.2.2",
+	"short_title": "Develop Knowledge and Situational Awareness",
+	"description": "The ability to apply context, experience, and intuition to data and information to derive meaning and value."
+}, {
+	"id": "5.2.2.1",
+	"short_title": "Understand Implications",
+	"description": "The ability to derive meaning and significance of selected information in a given context (within specific time and geographic constraints) and to assess the consequences of potential decisions."
+}, {
+	"id": "5.2.2.2",
+	"short_title": "Analyze Information",
+	"description": "The ability to methodically examine information by decomposing it into its constituent parts and studying their interrelations in a given context."
+}, {
+	"id": "5.2.2.3",
+	"short_title": "Define Knowledge Structure",
+	"description": "The ability to organize information into cogent, actionable context."
+}, {
+	"id": "5.2.3",
+	"short_title": "Share Knowledge and Situational Awareness",
+	"description": "The ability to communicate synthesized information and context."
+}, {
+	"id": "5.2.3.1",
+	"short_title": "Define Associated Community",
+	"description": "The ability to identify relevant stakeholders."
+}, {
+	"id": "5.2.3.2",
+	"short_title": "Establish Collective Meaning (Collaboration)",
+	"description": "The ability to form collective perspective of the situation."
+}, {
+	"id": "5.2.3.3",
+	"short_title": "Prepare Distributable Context",
+	"description": "The ability to share cognizant, user-tailorable conclusions with stakeholders."
+}, {
+	"id": "5.3",
+	"short_title": "Planning",
+	"description": "The ability to establish a framework to employ resources to achieve a desired outcome or effect."
+}, {
+	"id": "5.3.1",
+	"short_title": "Analyze Problem",
+	"description": "The ability to review and examine all available information to determine necessary actions."
+}, {
+	"id": "5.3.1.1",
+	"short_title": "Analyze Situation",
+	"description": "The ability to evaluate synthesized situational awareness, including intelligence assessments, environmental condition, and force assessments to prepare strategies or plans."
+}, {
+	"id": "5.3.1.2",
+	"short_title": "Document Problem Elements",
+	"description": "The ability to produce a description of the situation based on the analysis of the guidance and synthesized information."
+}, {
+	"id": "5.3.2",
+	"short_title": "Apply Situational Understanding",
+	"description": "The ability to use synthesized information and awareness applicable to a given situation or environment to further understand the problem."
+}, {
+	"id": "5.3.2.1",
+	"short_title": "Evaluate Operational Environment",
+	"description": "The ability to assess the circumstances and characteristics of a situation or environment."
+}, {
+	"id": "5.3.2.2",
+	"short_title": "Determine Vulnerabilities",
+	"description": "The ability to assess existing and potential weakness."
+}, {
+	"id": "5.3.2.3",
+	"short_title": "Determine Opportunities",
+	"description": "The ability to assess existing and potential circumstances leading to success."
+}, {
+	"id": "5.3.3",
+	"short_title": "Develop Strategy",
+	"description": "The ability to create a framework that synchronizes and integrates the resources available to achieve a desired outcome or effect."
+}, {
+	"id": "5.3.3.1",
+	"short_title": "Determine End State",
+	"description": "The ability to unambiguously define a set of desired final objective conditions."
+}, {
+	"id": "5.3.3.2",
+	"short_title": "Develop Assumptions",
+	"description": "The ability to analyze and build suppositions on the current situation or a presupposition on the future course of events, in the absence of positive proof."
+}, {
+	"id": "5.3.3.3",
+	"short_title": "Develop Objectives",
+	"description": "The ability to clearly define decisive and obtainable goals towards which every operation should be directed in accomplishment of the mission."
+}, {
+	"id": "5.3.3.4",
+	"short_title": "Develop Courses of Action",
+	"description": "The ability to build and refine sequences of activities to achieve a desired outcome or effect."
+}, {
+	"id": "5.3.4.1",
+	"short_title": "Assess Available Capabilities",
+	"description": "The ability to determine the adequacy and readiness of the current resources and the means to accomplish a defined objective."
+}, {
+	"id": "5.3.4.2",
+	"short_title": "Understand Objectives",
+	"description": "The ability to comprehend intent and guidance within a given situation."
+}, {
+	"id": "5.3.4.3",
+	"short_title": "Develop Options",
+	"description": "The ability to create a potential or series of potential activities or actions to achieve the assigned objectives."
+}, {
+	"id": "5.3.5",
+	"short_title": "Analyze Courses of Action",
+	"description": "The ability to evaluate potential solutions to determine likelihood of success."
+}, {
+	"id": "5.3.5.1",
+	"short_title": "Establish Selection Criteria",
+	"description": "The ability to define the valuation metrics to compare COAs."
+}, {
+	"id": "5.3.5.2",
+	"short_title": "Evaluate Courses of Actions",
+	"description": "The ability to assess the strengths and weaknesses of each proposed COA (e.g., exercises, wargames, modeling and simulation, etc)."
+}, {
+	"id": "5.4",
+	"short_title": "Decide",
+	"description": "The ability to select a course of action informed and influenced by the understanding of the environment or a given situation."
+}, {
+	"id": "5.4.1",
+	"short_title": "Manage Risk",
+	"description": "The ability to recognize and balance the likelihood and consequences of undesired effects with the desired outcomes\/effects."
+}, {
+	"id": "5.4.2",
+	"short_title": "Select Actions",
+	"description": "The ability to choose a prudent idea or set of ideas that leads to a desired outcome or end-state within a defined set of constraints."
+}, {
+	"id": "5.4.2.1",
+	"short_title": "Select Course of Action",
+	"description": "The ability to choose the sequence of activities that most efficiently and effectively achieves the desired objective."
+}, {
+	"id": "5.4.2.2",
+	"short_title": "Select Plan",
+	"description": "The ability to choose a framework to employ resources, according to established selection criteria."
+}, {
+	"id": "5.4.3",
+	"short_title": "Establish Rule Sets",
+	"description": "The ability to construct directives that delineate circumstances and limitations for actions."
+}, {
+	"id": "5.4.4",
+	"short_title": "Establish Intent and Guidance",
+	"description": "The ability to formulate a concise expression of purpose, methods, acceptable risk, and desired end state."
+}, {
+	"id": "5.4.5",
+	"short_title": "Intuit",
+	"description": "The ability to make instinctive assessments and preemptive decisions to adjust to and\/or shape change."
+}, {
+	"id": "5.5",
+	"short_title": "Direct",
+	"description": "The ability to employ resources to achieve an objective."
+}, {
+	"id": "5.5.1",
+	"short_title": "Communicate Intent and Guidance",
+	"description": "The ability to promulgate a concise expression of the operational purpose, assessment of acceptable operational risk, and guidance to achieve the desired end state."
+}, {
+	"id": "5.5.1.1",
+	"short_title": "Issue Estimates",
+	"description": "The ability to provide current situation, development, or trend analysis and interpret the significance, appraise the future possibilities and forecast the prospective results of the various actions that could be undertaken (DoD Dictionary)."
+}, {
+	"id": "5.5.1.2",
+	"short_title": "Issue Priorities",
+	"description": "The ability to provide prioritized elements to all required organizations and assets."
+}, {
+	"id": "5.5.1.3",
+	"short_title": "Issue Rule Sets",
+	"description": "The ability to provide all directives applicable to subordinate organizations and assets."
+}, {
+	"id": "5.5.1.4",
+	"short_title": "Provide Concept of Operations",
+	"description": "The ability to distribute leadership\u2019s initial determination of a concept of operations, leader expectations, and follow-on adjustments, as necessary, for achieving the mission."
+}, {
+	"id": "5.5.1.5",
+	"short_title": "Provide Warnings",
+	"description": "The ability to communicate and then gain acknowledgement of dangers implicit in a wide spectrum of activities by potential opponents."
+}, {
+	"id": "5.5.1.6",
+	"short_title": "Issue Alerts",
+	"description": "The ability to forewarn military decision makers, operating location population and civilian authorities of immediate threats and other dangers."
+}, {
+	"id": "5.5.2",
+	"short_title": "Task",
+	"description": "The ability to direct actions and resources."
+}, {
+	"id": "5.5.2.1",
+	"short_title": "Synchronize Operations",
+	"description": "The ability to arrange actions through established links with mission partners to ensure coordination of operations."
+}, {
+	"id": "5.5.2.2",
+	"short_title": "Issue Plans",
+	"description": "The ability to provide relevant plans."
+}, {
+	"id": "5.5.2.3",
+	"short_title": "Issue Orders",
+	"description": "The ability to provide directives."
+}, {
+	"id": "5.5.3",
+	"short_title": "Establish Metrics",
+	"description": "The ability to establish objective criteria to assess performance and results."
+}, {
+	"id": "5.5.3.1",
+	"short_title": "Establish Measures of Performance",
+	"description": "The ability to establish criteria or conditions used to measure task accomplishment."
+}, {
+	"id": "5.5.3.2",
+	"short_title": "Establish Measures of Effectiveness",
+	"description": "The ability to establish criteria used to assess changes in system behavior, capability, or operational environment that are tied to measuring the attainment of an end state, achievement of an objective, or creation of an effect."
+}, {
+	"id": "5.6",
+	"short_title": "Monitor",
+	"description": "The ability to adequately observe and assess events\/effects of a decision."
+}, {
+	"id": "5.6.1",
+	"short_title": "Assess Compliance with Guidance",
+	"description": "The ability to determine if performance adheres to established parameters and expectations."
+}, {
+	"id": "5.6.1.1",
+	"short_title": "Assess Employment of Forces",
+	"description": "The ability to determine if forces have been applied to assigned objectives."
+}, {
+	"id": "5.6.1.2",
+	"short_title": "Assess Manner of Employment",
+	"description": "The ability to determine if force employment has followed established guidance."
+}, {
+	"id": "5.6.2",
+	"short_title": "Assess Effects",
+	"description": "The ability to analyze, track, and measure the results of actions taken."
+}, {
+	"id": "5.6.3",
+	"short_title": "Assess Achievement of Objectives",
+	"description": "The ability to determine when the desired end-state has been reached."
+}, {
+	"id": "5.6.4",
+	"short_title": "Assess Guidance",
+	"description": "The ability to determine if direction is achieving the desired end-state and is appropriate for the situation."
+}, {
+	"id": "6",
+	"short_title": "Net-Centric",
+	"description": "The ability to provide a framework for full human and technical connectivity and interoperability that allows all DoD users and mission partners to share the information they need, when they need it, in a form they can understand and act on with confidence, and protects information from those who should not have it."
+}, {
+	"id": "6.1",
+	"short_title": "Information Transport",
+	"description": "The ability to transport information and services via assured end-to-end connectivity across the NC environment."
+}, {
+	"id": "6.1.1",
+	"short_title": "Wired Transmission",
+	"description": "The ability to transfer data or information with an electrical\/optical conductor."
+}, {
+	"id": "6.1.1.1",
+	"short_title": "Localized Communications",
+	"description": "The ability to disseminate, transmit, or receive voice, data, video and integrated telecommunications via wire or optical means within the confines of a platform or an installation (e.g., command post, post, camp, station, base, installation, headquarters, or Federal building)."
+}, {
+	"id": "6.1.1.2",
+	"short_title": "Long-Haul Telecommunications",
+	"description": "The ability to disseminate, transmit, or receive voice, data, video and integrated telecommunications via wire or optical means to, from and between platforms and\/or installations (e.g., command post, post, camp, base, stations or federal buildings)."
+}, {
+	"id": "6.1.2",
+	"short_title": "Wireless Transmission",
+	"description": "The ability to transfer data or information without an electrical\/optical conductor."
+}, {
+	"id": "6.1.2.1",
+	"short_title": "Line of Sight",
+	"description": "The ability to exchange data or information via electromagnetic spectrum within line of sight."
+}, {
+	"id": "6.1.2.2",
+	"short_title": "Beyond Line of Sight",
+	"description": "The ability to exchange data or information via electromagnetic spectrum beyond line of sight."
+}, {
+	"id": "6.1.3",
+	"short_title": "Switching and Routing",
+	"description": "The ability to move data and information end to end across multiple transmission media."
+}, {
+	"id": "6.1.3.1",
+	"short_title": "Communication Bridge",
+	"description": "The ability to interface two or more common communications media or networks."
+}, {
+	"id": "6.1.3.2",
+	"short_title": "Communication Gateway",
+	"description": "The ability to interface two or more disparate communications media or networks."
+}, {
+	"id": "6.2",
+	"short_title": "Enterprise Services",
+	"description": "The ability to provide to all authorized users awareness of and access to all DoD information and DoD-wide information services."
+}, {
+	"id": "6.2.1",
+	"short_title": "Information Sharing",
+	"description": "The ability to provide physical and virtual access to hosted information and data centers across the enterprise based on established data standards."
+}, {
+	"id": "6.2.2",
+	"short_title": "Computing Services",
+	"description": "The ability to process data and provide physical and virtual access to hosted information and data centers across the enterprise based on established data standards."
+}, {
+	"id": "6.2.2.1",
+	"short_title": "Shared Computing",
+	"description": "The ability to provide computing processing and storage resources that can be used by more than one component, community of Interest, program, or DoD user."
+}, {
+	"id": "6.2.2.2",
+	"short_title": "Distributed Computing",
+	"description": "The ability to provide a virtual computing capability to an end user or application through federation of distributed, location-independent computing resources."
+}, {
+	"id": "6.2.2.3",
+	"short_title": "Server Services",
+	"description": "The ability to compute, process, host and control information within the network to serve client services at the edge of, and throughout the network. Subcategories include server computing, production, and mass storage."
+}, {
+	"id": "6.2.2.4",
+	"short_title": "End User Services",
+	"description": "The ability to provide client computing devices and management of those devices. Provide mobile voice, data and video devices. Management of those devices, to include pagers, cell phones, wireless\/cellular enabled Personal Data Assistants (PDAs), or other end user devices used by individuals to access information, applications and services."
+}, {
+	"id": "6.2.3",
+	"short_title": "Core Enterprise Services",
+	"description": "The ability to provide awareness of, access to and delivery of information on the GIG via a small set of CIO mandated services."
+}, {
+	"id": "6.2.3.1",
+	"short_title": "User Access (Portal)",
+	"description": "The ability to access user defined DoD Enterprise Services through a secure single entry point."
+}, {
+	"id": "6.2.3.2",
+	"short_title": "Collaboration",
+	"description": "The ability to conduct synchronous and asynchronous communications and interaction across the enterprise, including voice, data, video, and manipulated visual representation."
+}, {
+	"id": "6.2.3.3",
+	"short_title": "Content Discovery",
+	"description": "The ability to identify, search for, or locate relevant information."
+}, {
+	"id": "6.2.3.4",
+	"short_title": "Content Delivery",
+	"description": "The ability to accelerate delivery and improve reliability of enterprise content and services, by optimizing the location and routing of information."
+}, {
+	"id": "6.2.3.5",
+	"short_title": "Common Identity Assurance Services",
+	"description": "The ability to establish and deploy common identity assurance services across the enterprise."
+}, {
+	"id": "6.2.3.6",
+	"short_title": "Enterprise Messaging",
+	"description": "The ability to perform electronic messaging between users and organizational entities across the enterprise, including providing customer support."
+}, {
+	"id": "6.2.3.7",
+	"short_title": "Directory Services",
+	"description": "The ability to provide, operate, and maintain a global directory of users, to include directory synchronization with other lower-level systems and information integrity."
+}, {
+	"id": "6.2.3.8",
+	"short_title": "Enterprise Application Software",
+	"description": "The ability to provide productivity enhancement software made available to all users."
+}, {
+	"id": "6.2.4",
+	"short_title": "Position, Navigation and Timing",
+	"description": "The ability to determine accurate and precise location, orientation, time and course corrections anywhere in the battlespace and to provide timely and assured PNT services across the DoD enterprise."
+}, {
+	"id": "6.2.4.1",
+	"short_title": "Provide Position, Navigation and Timing Information",
+	"description": "The ability to provide and control temporal and spatial reference information."
+}, {
+	"id": "6.2.4.2",
+	"short_title": "Utilize Position, Navigation and Timing Information",
+	"description": "The ability to acquire and apply temporal and spatial reference information to produce continuous PNT solutions."
+}, {
+	"id": "6.3",
+	"short_title": "Net Management",
+	"description": "The ability to configure and re-configure networks, services and the underlying physical assets that provide end-user services, as well as connectivity to enterprise application services."
+}, {
+	"id": "6.3.1",
+	"short_title": "Optimized Network Functions and Resources",
+	"description": "The ability to provide DoD with responsive network functionality and dynamically configurable resources, to include allocation of required bandwidth, computing and storage."
+}, {
+	"id": "6.3.1.1",
+	"short_title": "Network Resource Visibility",
+	"description": "The ability to determine real time status and effectiveness of network services and resources."
+}, {
+	"id": "6.3.1.2",
+	"short_title": "Rapid Configuration Change",
+	"description": "The ability to rapidly configure and reconfigure enterprise services and resources in concert with the established CONOPS."
+}, {
+	"id": "6.3.2",
+	"short_title": "Deployable Scalable and Modular Networks",
+	"description": "The ability to design, assemble, transport, and establish mission-scaled networks from adaptable components network modules."
+}, {
+	"id": "6.3.3",
+	"short_title": "Spectrum Management",
+	"description": "The ability to synchronize, coordinate, and manage all elements of the electromagnetic spectrum through engineering and administrative tools and procedures."
+}, {
+	"id": "6.3.3.1",
+	"short_title": "Spectrum Monitoring",
+	"description": "The ability to monitor and characterize the electromagnetic environment."
+}, {
+	"id": "6.3.3.2",
+	"short_title": "Spectrum Assignment",
+	"description": "The ability to identify spectrum requirements; evaluate electromagnetic environmental effects (E3); and dynamically plan, allot, and modify frequency assignments to exploit available spectrum."
+}, {
+	"id": "6.3.3.3",
+	"short_title": "Spectrum Deconfliction",
+	"description": "The ability to dynamically predict, detect, and mitigate frequency interference."
+}, {
+	"id": "6.3.4",
+	"short_title": "Cyber Management",
+	"description": "The ability to assure network support for all DoD missions through the synchronization, deconfliction, coordination, and awareness of all elements of computer network operations."
+}, {
+	"id": "6.4",
+	"short_title": "Information Assurance",
+	"description": "The ability to provide the measures that protect, defend and restore information and information systems."
+}, {
+	"id": "6.4.1",
+	"short_title": "Secure Information Exchange",
+	"description": "The ability to secure dynamic information flow within and across domains."
+}, {
+	"id": "6.4.1.1",
+	"short_title": "Assure Access",
+	"description": "The ability to identify and authenticate individuals, groups, and entities and provide authorization to services and information."
+}, {
+	"id": "6.4.1.2",
+	"short_title": "Assure Transfer",
+	"description": "The ability to exchange authentic data, information, and knowledge between authorized individuals, groups, and entities."
+}, {
+	"id": "6.4.2",
+	"short_title": "Protect Data and Networks",
+	"description": "The ability to anticipate and prevent successful attacks on data and networks."
+}, {
+	"id": "6.4.2.1",
+	"short_title": "Protect Against Network Infiltration",
+	"description": "The ability to prevent unauthorized access."
+}, {
+	"id": "6.4.2.2",
+	"short_title": "Protect Against Denial or Degradation of Services",
+	"description": "The ability to prevent or contain activities which may degrade or deny authorized use of network resources."
+}, {
+	"id": "6.4.2.3",
+	"short_title": "Protect Against Disclosure or Modification of Data",
+	"description": "The ability to prevent or contain activities which may expose or modify data."
+}, {
+	"id": "6.4.3",
+	"short_title": "Respond to Attack \/ Event",
+	"description": "The ability to maintain services while under cyber-attack, recover from cyber-attack, and ensure availability of information and systems."
+}, {
+	"id": "6.4.3.1",
+	"short_title": "Detect Events",
+	"description": "The ability to identify anomalous activities and behavior."
+}, {
+	"id": "6.4.3.2",
+	"short_title": "Analyze Events",
+	"description": "The ability to diagnose anomalous activities and behavior by determining cause, characterizing and assessing impact."
+}, {
+	"id": "6.4.3.3",
+	"short_title": "Respond to Incidents",
+	"description": "The ability to take action to mitigate the impact of anomalous activities and behavior"
+}, {
+	"id": "7",
+	"short_title": "Protection",
+	"description": "The ability to prevent\/mitigate adverse effects of attacks on personnel (combatant\/non-combatant) and physical assets of the United States, allies and friends."
+}, {
+	"id": "7.1",
+	"short_title": "Prevent",
+	"description": "The ability to neutralize an imminent attack or defeat attacks on personnel (combatant\/non-combatant) and physical assets."
+}, {
+	"id": "7.1.1",
+	"short_title": "Prevent Kinetic Attack",
+	"description": "The ability to defeat attacks being delivered by systems which rely upon physical momentum."
+}, {
+	"id": "7.1.1.1",
+	"short_title": "Above Surface (PK)",
+	"description": "The ability to defeat kinetically delivered attacks in air and space."
+}, {
+	"id": "7.1.1.1.1",
+	"short_title": "Maneuvering (PKA)",
+	"description": "The ability to defeat kinetically delivered attacks that can change speed, direction or altitude based on internal or external guidance."
+}, {
+	"id": "7.1.1.1.2",
+	"short_title": "Non-Maneuvering (PKA)",
+	"description": "The ability to defeat kinetically delivered attacks that cannot change speed, direction or altitude based on internal or external guidance."
+}, {
+	"id": "7.1.1.2",
+	"short_title": "Surface (PK)",
+	"description": "The ability to defeat kinetically delivered attacks on the exterior or upper boundary of the land or water."
+}, {
+	"id": "7.1.1.2.1",
+	"short_title": "Maneuvering (PKS)",
+	"description": "The ability to defeat kinetically delivered attacks that can change speed or direction based on internal or external guidance."
+}, {
+	"id": "7.1.1.2.2",
+	"short_title": "Non-Maneuvering (PKS)",
+	"description": "The ability to defeat kinetically delivered attacks that cannot change speed or direction based on internal or external guidance."
+}, {
+	"id": "7.1.1.3",
+	"short_title": "Sub-Surface Kinetic (PK)",
+	"description": "The ability to defeat kinetically delivered attacks beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.) or beneath the surface of a body of water."
+}, {
+	"id": "7.1.1.3.1",
+	"short_title": "Maneuvering (PKSS)",
+	"description": "The ability to defeat kinetically delivered attacks that can change speed, direction or depth based on internal or external guidance."
+}, {
+	"id": "7.1.1.3.2",
+	"short_title": "Non-Maneuvering (PKSS)",
+	"description": "The ability to defeat kinetically delivered attacks that cannot change speed, direction or depth based on internal or external guidance."
+}, {
+	"id": "7.1.2",
+	"short_title": "Prevent Non-kinetic Attack",
+	"description": "The ability to defeat attacks being delivered by systems which do not rely upon physical momentum."
+}, {
+	"id": "7.1.2.1",
+	"short_title": "Above Surface (PN)",
+	"description": "The ability to defeat non-kinetically delivered attacks in air and space."
+}, {
+	"id": "7.1.2.2",
+	"short_title": "Surface (PN)",
+	"description": "The ability to defeat non-kinetically delivered attacks on the exterior or upper boundary of the land or water."
+}, {
+	"id": "7.1.2.3",
+	"short_title": "Sub-Surface (PN)",
+	"description": "The ability to defeat non-kinetically delivered attacks beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.) or beneath the surface of a body of water."
+}, {
+	"id": "7.2",
+	"short_title": "Mitigate",
+	"description": "The ability to minimize the effects and manage the consequence of attacks (and designated emergencies on personnel and physical assets."
+}, {
+	"id": "7.2.1",
+	"short_title": "Mitigate Lethal Effects",
+	"description": "The ability to minimize the effects of attacks or designated emergencies which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.1",
+	"short_title": "Chemical (ML)",
+	"description": "The ability to minimize the effects of chemical attacks which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.2",
+	"short_title": "Biological (ML)",
+	"description": "The ability to minimize the effects of biological attacks which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.2.1",
+	"short_title": "Contagious (MLB)",
+	"description": "The ability to minimize the effects of contagious biological attacks which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.2.2",
+	"short_title": "Non-Contagious (MLB)",
+	"description": "The ability to minimize the effects of non-contagious biological attacks which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.3",
+	"short_title": "Radiological (ML)",
+	"description": "The ability to minimize the effects of radiological attacks which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.4",
+	"short_title": "Nuclear (ML)",
+	"description": "The ability to minimize the effects of nuclear attacks which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.5",
+	"short_title": "Electromagnetic Pulse (ML)",
+	"description": "The ability to minimize the effects of electromagnetic pulse attacks which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.6",
+	"short_title": "Explosives (ML)",
+	"description": "The ability to minimize the effects of explosive attacks which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.7",
+	"short_title": "Projectiles (ML)",
+	"description": "The ability to minimize the effects of projectile attacks which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.8",
+	"short_title": "Directed Energy (ML)",
+	"description": "The ability to minimize the effects of directed energy attacks which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.1.9",
+	"short_title": "Natural Hazards (ML)",
+	"description": "The ability to minimize the effects of natural hazards which have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2",
+	"short_title": "Mitigate Non-Lethal Effects",
+	"description": "The ability to minimize the effects of attacks or designated emergencies which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.1",
+	"short_title": "Chemical (MN)",
+	"description": "The ability to minimize the effects of chemical attacks which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.2",
+	"short_title": "Biological (MN)",
+	"description": "The ability to minimize the effects of biological attacks which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.2.1",
+	"short_title": "Contagious (MNB)",
+	"description": "The ability to minimize the effects of contagious biological attacks which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.2.2",
+	"short_title": "Non-Contagious (MNB)",
+	"description": "The ability to minimize the effects of non-contagious biological attacks which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.3",
+	"short_title": "Radiological (MN)",
+	"description": "The ability to minimize the effect of radiological hazards which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.4",
+	"short_title": "Electromagnetic Pulse (MN)",
+	"description": "The ability to minimize the effects of electromagnetic pulse attacks which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.5",
+	"short_title": "Explosives (MN)",
+	"description": "The ability to minimize the effects of explosive attacks which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.6",
+	"short_title": "Projectiles (MN)",
+	"description": "The ability to minimize the effects of projectile attacks which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.7",
+	"short_title": "Directed Energy (MN)",
+	"description": "The ability to minimize the effects of directed energy attacks which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.8",
+	"short_title": "Electromagnetic Spectrum (MN)",
+	"description": "The ability to minimize the effects of electromagnetic spectrum attacks which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "7.2.2.9",
+	"short_title": "Natural Hazards (MN)",
+	"description": "The ability to minimize the effects of natural hazards which do not have the potential to kill personnel and destroy physical assets."
+}, {
+	"id": "8",
+	"short_title": "Building Partnerships",
+	"description": "The ability to interact with partner, competitor or adversary leaders, security institutions, or relevant populations by developing and presenting information and conducting activities to affect their perceptions, will, behavior, and capabilities in order to build effective, legitimate, interoperable, and self-sustaining strategic partners."
+}, {
+	"id": "8.1",
+	"short_title": "Communicate",
+	"description": "The ability to understand, engage, develop and present information to domestic partner audiences to improve understanding; and, to foreign partner audiences to create, strengthen, or preserve conditions favorable for the advancement of United States Government interests, policies, and objectives through the use of coordinated programs, plans, themes, messages, and products synchronized with the actions of all instruments of national power."
+}, {
+	"id": "8.1.1",
+	"short_title": "Inform Domestic and Foreign Audiences",
+	"description": "The ability to understand, engage, develop and present objective information and to correct misinformation or disinformation to domestic and foreign audiences to improve their understanding of the strategies, policies, and operations of the U.S. Government and its partners."
+}, {
+	"id": "8.1.1.1",
+	"short_title": "Develop Objective Information",
+	"description": "The ability to develop U.S. Government interagency synchronized themes and messages, and associated metrics, for presentation, to clarify, reinforce, or improve domestic or foreign audience\u2019s understanding of the strategies, policies, and operations of the U.S. Government and its partners."
+}, {
+	"id": "8.1.1.2",
+	"short_title": "Identify Misinformation and Disinformation",
+	"description": "The ability to identify misinformation and disinformation that degrades the domestic and foreign audience\u2019s understanding of the strategies, policies, and operations of the U.S. Government and its partners as well as to recognize and promote favorable information."
+}, {
+	"id": "8.1.1.3",
+	"short_title": "Deliver and Adjust Information",
+	"description": "The ability to understand the attitudes, opinions grievances, and concerns of partners and use selected senders and media to deliver themes, messages, and objective information in accordance with U.S. Government goals and objectives, and, if required, modify to themes, messages, senders or medium."
+}, {
+	"id": "8.1.2",
+	"short_title": "Persuade Partner Audiences",
+	"description": "The ability to develop and present credible information and motivational appeals synchronized with actions to partner audiences for the purpose of convincing them to accept or support the strategies, policies, plans, activities and operations of the U.S. Government and its partners and weakening and adversary's credibility and legitimacy."
+}, {
+	"id": "8.1.2.1",
+	"short_title": "Identify Foreign Audience Attitudes",
+	"description": "The ability to identify and understand the cultures, social dynamics, and interrelationships and attitudes of relevant foreign audiences regarding their understanding and support of the strategies, policies, objectives, and operations of the U.S. Government and its partners taking into account the political setting, relevant foreign audience international and domestic politics, partner reaction and US domestic considerations."
+}, {
+	"id": "8.1.2.2",
+	"short_title": "Develop Cognitive Programs and Products",
+	"description": "The ability to develop credible, U.S. Government interagency-synchronized themes and messages, with associated metrics, which will persuade foreign audiences to accept and support the strategies, policies, and operations of the U.S. Government and its partners."
+}, {
+	"id": "8.1.2.3",
+	"short_title": "Deliver and Adjust Persuasive Content",
+	"description": "The ability to use selected senders and media to deliver themes and messages in accordance with U.S. government goals objectives, plans and, if required, recommend modification to theme, message, senders or medium."
+}, {
+	"id": "8.1.3",
+	"short_title": "Influence Adversary and Competitor Audiences",
+	"description": "The ability to develop and present credible information to competitor and adversary audiences to prompt them to react in a manner that is favorable to U.S. interests."
+}, {
+	"id": "8.1.3.1",
+	"short_title": "Identify and Understand Adversary and Competitor Attitudes",
+	"description": "The ability to identify and understand beliefs, perceptions and reactions of adversary and competitor audiences relevant to the strategies, policies, objectives and operations of the U.S. Government and its partners taking into account the political setting, adversary domestic politics, partner reaction and US domestic considerations."
+}, {
+	"id": "8.1.3.2",
+	"short_title": "Develop Influential Programs and Products",
+	"description": "The ability to develop U.S. Government interagency synchronized themes, messages, information, indicators, with associated metrics, to cause adversary and competitor audiences to react in a manner that is favorable to U.S. interests."
+}, {
+	"id": "8.1.3.3",
+	"short_title": "Deliver and Adjust Influential Content",
+	"description": "The ability to use selected senders and media to deliver themes, messages, information, and indicators to an adversary or competitor to respond in a manner that is in the interest of U.S. Government goals and objectives plans and, if required, recommend modification to theme, message, senders or medium."
+}, {
+	"id": "8.2",
+	"short_title": "Shape",
+	"description": "The ability to conduct activities with partner leaders, security institutions, and relevant populations to build defense relationships that promote shared global security interests, develop allied and friendly security capabilities for self-defense and multi-national operations, and provide U.S. forces with peacetime and contingency access to a host nation."
+}, {
+	"id": "8.2.1",
+	"short_title": "Partner with Governments and Institutions",
+	"description": "The ability to establish or strengthen formal or informal relationships with domestic and foreign institutions, countries, or populations to further U.S. national security or shared global security interests."
+}, {
+	"id": "8.2.1.1",
+	"short_title": "Engage Partners",
+	"description": "The ability to integrate and synchronize interaction with selected domestic and foreign institutions, countries, or populations under available identified and aligned authorities and resources authorities to facilitate development of formal or informal relationships."
+}, {
+	"id": "8.2.1.2",
+	"short_title": "Develop Partnership Agreements",
+	"description": "The ability to negotiate and establish partnership agreements based on prioritized relationships, containing measurable objectives, with domestic and foreign institutions, organizations, and governments."
+}, {
+	"id": "8.2.1.3",
+	"short_title": "Enhanced Language, Regional Expertise and Culture (LREC)",
+	"description": "The ability to understand the history, language, cultures, beliefs, social structures, politics, and economics of allies, partners, and foreign population to effectively execute missions across the spectrum of military operations."
+}, {
+	"id": "8.2.2",
+	"short_title": "Provide Aid to Foreign Partners and Institutions",
+	"description": "The ability to plan, integrate, synchronize, assess and provide assistance, materiel, or services to foreign partners or institutions for the purpose of advancing U.S. national security or shared global security interests."
+}, {
+	"id": "8.2.2.1",
+	"short_title": "Identify Aid Requirements",
+	"description": "The ability to assess, identify and understand requirements and required resources to provide assistance to foreign partners or institutions."
+}, {
+	"id": "8.2.2.2",
+	"short_title": "Supply Partner Aid",
+	"description": "The ability to facilitate the delivery and receipt of aid in a manner that takes into account the partner's needs, desires, and capacity to sustain the delivered aid and that advances partnership goals and national security interests."
+}, {
+	"id": "8.2.3",
+	"short_title": "Build the Capabilities and Capacities of Partners and Institutions",
+	"description": "The ability to assist domestic and foreign partners and institutions with the development of their capabilities and capacities for mutual benefit to address U.S. national or shared global security interests."
+}, {
+	"id": "8.2.3.1",
+	"short_title": "Determine Partner Requirements",
+	"description": "The ability to assess, identify, understand and prioritize the specific type and magnitude of partner capability and capacity needed to address shared goals."
+}, {
+	"id": "8.2.3.2",
+	"short_title": "Enhance Partner Capabilities and Capacities",
+	"description": "The ability to assess and facilitate the development of partner capabilities and capacities in a manner that takes into account the partner's ability to sustain them and advances partnership goals and mutual interests."
+}, {
+	"id": "8.2.4",
+	"short_title": "Leverage Capacities and Capabilities of Security Establishments",
+	"description": "The ability to stimulate foreign governments and institutions to employ capabilities that complement or assist the U.S. in furthering its national security or shared global security interests."
+}, {
+	"id": "8.2.4.1",
+	"short_title": "Identify Foreign Security-Related Capabilities",
+	"description": "The ability to identify and understand the capabilities of governments and institutions that may complement or assist the U.S. in furthering its national security or shared global security interests."
+}, {
+	"id": "8.2.4.2",
+	"short_title": "Determine Utility of Foreign Security-Related Capabilities",
+	"description": "The ability to understand and evaluate the actions and incentives necessary to access the capabilities of foreign governments and institutions."
+}, {
+	"id": "8.2.4.3",
+	"short_title": "Stimulate the Use of Foreign Security-Related Capabilities",
+	"description": "The ability to facilitate the employment of foreign capabilities that complement or assist the U.S. in furthering its national security or shared global security interests."
+}, {
+	"id": "8.2.5",
+	"short_title": "Strengthen Global Defense Posture",
+	"description": "The ability to develop a network of host-nation relationships activities, and footprint of facilities and forces through decision-making and diplomatic efforts which enable relevant and flexible forward U.S. military presence for contending with uncertainty and shaping the strategic environment."
+}, {
+	"id": "9",
+	"short_title": "Corporate Management and Support",
+	"description": "The ability to provide strategic senior level, enterprise-wide leadership, direction, coordination, and oversight through a chief management officer function."
+}, {
+	"id": "9.1",
+	"short_title": "Advisory and Compliance",
+	"description": "The ability to provide advice, counsel, review, inspection and evaluation of policies, standards, systems, procedures and internal controls to ensure compliance with statutory and regulatory requirements and to propose changes to existing requirements."
+}, {
+	"id": "9.1.1",
+	"short_title": "Advice and External Matters",
+	"description": "The ability to provide advice on and manage all matters and services (domestic and international) performed within, or involving DoD to establish and oversee DoD policies and standards on matters including but not limited to Legal, Legislative, and the Media."
+}, {
+	"id": "9.1.1.1",
+	"short_title": "Legal Matters",
+	"description": "The ability to support decision makers on all civil, acquisition, fiscal, military, international, and operational law issues."
+}, {
+	"id": "9.1.1.2",
+	"short_title": "Legislative Matters",
+	"description": "The ability to advise and assist the Department of Defense leaders on all issues involving Congressional testimony or reporting."
+}, {
+	"id": "9.1.2",
+	"short_title": "Audit, Inspection and Investigation",
+	"description": "The ability to understand and monitor matters relating to effective operations of DoD with particular regard to internal review activities."
+}, {
+	"id": "9.1.2.1",
+	"short_title": "Audits",
+	"description": "The ability to analyze the control of DoD resources to ensure compliance and to provide recommendations for improvement."
+}, {
+	"id": "9.1.2.2",
+	"short_title": "Inspections",
+	"description": "The ability to perform inspection of DoD personnel and property, particularly as relates to operational readiness."
+}, {
+	"id": "9.1.2.3",
+	"short_title": "Investigations",
+	"description": "The ability to thoroughly examine issues raised by audits and investigations or by credible allegations including, but not limited to, negligence, misconduct, or misappropriation of funding."
+}, {
+	"id": "9.1.3",
+	"short_title": "Operational Test and Evaluation",
+	"description": "The ability to understand and monitor matters relating to the operational effectiveness, suitability and survivability of systems in their expected combat environment."
+}, {
+	"id": "9.2",
+	"short_title": "Strategy and Assessment",
+	"description": "The ability to establish the direction and priority of activities that DoD must do in support of its Constitutional responsibilities."
+}, {
+	"id": "9.2.1",
+	"short_title": "Strategy Development",
+	"description": "The ability to assess the security environment, establish a DoD direction, strategic goals, priorities, objectives and guidance. Includes enterprise-level planning activities to determine the integrated and balanced military forces and Joint force capabilities needed to accomplish the DoD strategy."
+}, {
+	"id": "9.2.2",
+	"short_title": "Capabilities Development",
+	"description": "The ability to translate, validate and prioritize capability and capacity requirements or gaps and acceptable areas to increase risk to support DoD strategy."
+}, {
+	"id": "9.2.3",
+	"short_title": "Enterprise-Wide Assessment",
+	"description": "The ability to continually monitor the environment, examine progress towards and achievement of DoD strategic goals and priorities, and inform future strategy development or implement necessary corrective actions to stay on course."
+}, {
+	"id": "9.2.4",
+	"short_title": "Studies and Analyses",
+	"description": "The ability to conduct reviews with appropriate rigor to improve and support policy development, decision making, management, and administration of DoD capabilities, programs and activities."
+}, {
+	"id": "9.2.5",
+	"short_title": "Enterprise Architecture",
+	"description": "The ability to provide oversight and policy guidance to ensure compliance with standards for developing, maintaining, and implementing sound, integrated and interoperable architectures across the Department."
+}, {
+	"id": "9.3",
+	"short_title": "Information Management",
+	"description": "The ability to establish, manage and oversee policies, standards and assessment mechanisms with regard to Information Technology (IT) architecture, data, security, and information sharing."
+}, {
+	"id": "9.4",
+	"short_title": "Acquisition",
+	"description": "The ability to organize and execute the activities necessary to provide materiel for DoD operations."
+}, {
+	"id": "9.4.1",
+	"short_title": "Research",
+	"description": "The ability to conduct fundamental research, science, technology, development and experimentation important to all Departmental capabilities and operations."
+}, {
+	"id": "9.4.1.1",
+	"short_title": "Basic",
+	"description": "The ability to conduct a systematic study directed toward the discovery of knowledge or understanding of the fundamental aspects of phenomena and of observable facts without specific applications."
+}, {
+	"id": "9.4.1.2",
+	"short_title": "Applied",
+	"description": "The ability to translate promising basic research into solutions for broadly defined military needs, including studies, investigations, and non-system specific technology efforts, including design, development, and improvements of prototypes and new processes to meet general mission area requirements."
+}, {
+	"id": "9.4.2",
+	"short_title": "Advanced Technology",
+	"description": "The ability to produce innovative and unique components and prototypes that can be integrated into defense systems for field experiments and\/or tests in a simulated "
+}, {
+	"id": "9.4.2.1",
+	"short_title": "Capability Experimentation",
+	"description": "The ability to arbitrate performance evaluation between competing models or prototypes to optimize DoD capabilities."
+}, {
+	"id": "9.4.2.2",
+	"short_title": "Capability Demonstration",
+	"description": "The ability to evaluate integrated technologies in a realistic operating environment to assess performance or cost reduction potential of advanced technology."
+}, {
+	"id": "9.4.3",
+	"short_title": "Developmental Engineering",
+	"description": "The ability to apply scientific, mathematical, economic, social, and practical knowledge to design and build DoD weapons and other systems."
+}, {
+	"id": "9.4.3.1",
+	"short_title": "Systems Engineering & Manufacturing",
+	"description": "The ability to execute a program of record responding to a validated materiel capability need through application of systems engineering, including Integrated System Design and System Capability and Manufacturing Process Demonstration."
+}, {
+	"id": "9.4.3.2",
+	"short_title": "Developmental Testing",
+	"description": "The ability to test of product elements, manufacturing or support processes during development in order to verify technical progress, design risks, contract technical performance or readiness for initial operational testing."
+}, {
+	"id": "9.4.4",
+	"short_title": "Acquisition",
+	"description": "The ability to organize and execute the activities necessary to provide materiel for DoD operations."
+}, {
+	"id": "9.4.4.1",
+	"short_title": "Program Initiation",
+	"description": "The ability to formally enter programs into the acquisition process, fully funded across the Future Years Defense Program."
+}, {
+	"id": "9.4.4.2",
+	"short_title": "Contracting",
+	"description": "The ability and authority to organize and run activities required to legally bind non-DoD resources in support of DoD operational requirements."
+}, {
+	"id": "9.4.4.3",
+	"short_title": "Portfolio System Acquisition",
+	"description": "The ability to synchronize, integrate, and coordinate activities for acquisition of capabilities grouped according to Joint Capability and Joint Mission Areas."
+}, {
+	"id": "9.4.4.4",
+	"short_title": "Production & Lifecycle Acquisition",
+	"description": "The ability to convert raw materials by fabrication into required weapons or systems, including production-scheduling, inspection, quality control and related processes; and tailored product support to achieve specific and evolving life cycle product support availability, reliability and performance parameters."
+}, {
+	"id": "9.4.4.5",
+	"short_title": "Capability Termination & Disposal",
+	"description": "The ability to demilitarize and dispose of a system at the end of its useful life in accordance with all legal and regulatory requirements and policy relating to safety, security and the environment."
+}, {
+	"id": "9.5",
+	"short_title": "Program, Budget and Finance",
+	"description": "The ability to direct, supervise, provide advice, formulate policy, and conduct analysis on DoD program, budget, performance, and financial matters, pursuant to DoD strategic goals, objectives, priorities and approved strategies and policies."
+}, {
+	"id": "9.5.1",
+	"short_title": "Program \/ Budget and Performance",
+	"description": "The ability to direct, supervise, provide advice, formulate policy, analyze, evaluate, and recommend efficient and effective resource allocation and performance targets\/measures that support DoD missions, strategic goals, objectives, priorities, and approved strategies and policies including the ability to direct, formulate, justify, and present the costs, efficiency, effectiveness, and capabilities of DoD programs and Defense budgets timely and accurately."
+}, {
+	"id": "9.5.2",
+	"short_title": "Accounting and Finance",
+	"description": "The ability to supervise, direct, advise, formulate policy, and account for the execution of DoD resources, including preparation of auditable financial statements. The ability to direct, supervise, and operate integrated DoD accounting and financial management systems and manage and execute financial operations that provide common DoD support in the areas of finance (payroll, commercial pay, etc), and accounting."
+}]
